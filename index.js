@@ -1,7 +1,7 @@
 let fs = require('fs'),
    PDFParser = require("pdf2json");
 
-let pdfParser = new PDFParser(this,1);
+let pdfParser = new PDFParser();
 
 const pdfNumber = 1;
 

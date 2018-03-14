@@ -1,0 +1,2978 @@
+[
+  {
+    "Riding": "ED001 Ajax",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 69,
+    "Electoral Votes": 13.346
+  },
+  {
+    "Riding": "ED001 Ajax",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 248,
+    "Electoral Votes": 47.969
+  },
+  {
+    "Riding": "ED001 Ajax",
+    "Candidate": "FORD, Doug",
+    "Ballots": 167,
+    "Electoral Votes": 32.302
+  },
+  {
+    "Riding": "ED001 Ajax",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 33,
+    "Electoral Votes": 6.383
+  },
+  {
+    "Riding": "ED002 Algoma--Manitoulin",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 45,
+    "Electoral Votes": 23.936
+  },
+  {
+    "Riding": "ED002 Algoma--Manitoulin",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 52,
+    "Electoral Votes": 27.66
+  },
+  {
+    "Riding": "ED002 Algoma--Manitoulin",
+    "Candidate": "FORD, Doug",
+    "Ballots": 73,
+    "Electoral Votes": 38.83
+  },
+  {
+    "Riding": "ED002 Algoma--Manitoulin",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 18,
+    "Electoral Votes": 9.574
+  },
+  {
+    "Riding": "ED003 Aurora--Oak Ridges--Richmond Hill",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 103,
+    "Electoral Votes": 16.246
+  },
+  {
+    "Riding": "ED003 Aurora--Oak Ridges--Richmond Hill",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 123,
+    "Electoral Votes": 19.401
+  },
+  {
+    "Riding": "ED003 Aurora--Oak Ridges--Richmond Hill",
+    "Candidate": "FORD, Doug",
+    "Ballots": 351,
+    "Electoral Votes": 55.363
+  },
+  {
+    "Riding": "ED003 Aurora--Oak Ridges--Richmond Hill",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 57,
+    "Electoral Votes": 8.991
+  },
+  {
+    "Riding": "ED004 Barrie--Innisfil",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 64,
+    "Electoral Votes": 9.182
+  },
+  {
+    "Riding": "ED004 Barrie--Innisfil",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 224,
+    "Electoral Votes": 32.138
+  },
+  {
+    "Riding": "ED004 Barrie--Innisfil",
+    "Candidate": "FORD, Doug",
+    "Ballots": 294,
+    "Electoral Votes": 42.181
+  },
+  {
+    "Riding": "ED004 Barrie--Innisfil",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 115,
+    "Electoral Votes": 16.499
+  },
+  {
+    "Riding": "ED005 Barrie--Springwater--Oro-Medonte",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 70,
+    "Electoral Votes": 8.206
+  },
+  {
+    "Riding": "ED005 Barrie--Springwater--Oro-Medonte",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 397,
+    "Electoral Votes": 46.542
+  },
+  {
+    "Riding": "ED005 Barrie--Springwater--Oro-Medonte",
+    "Candidate": "FORD, Doug",
+    "Ballots": 267,
+    "Electoral Votes": 31.301
+  },
+  {
+    "Riding": "ED005 Barrie--Springwater--Oro-Medonte",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 119,
+    "Electoral Votes": 13.951
+  },
+  {
+    "Riding": "ED006 Bay of Quinte",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 91,
+    "Electoral Votes": 11.757
+  },
+  {
+    "Riding": "ED006 Bay of Quinte",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 440,
+    "Electoral Votes": 56.848
+  },
+  {
+    "Riding": "ED006 Bay of Quinte",
+    "Candidate": "FORD, Doug",
+    "Ballots": 173,
+    "Electoral Votes": 22.351
+  },
+  {
+    "Riding": "ED006 Bay of Quinte",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 70,
+    "Electoral Votes": 9.044
+  },
+  {
+    "Riding": "ED007 Beaches--East York",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 37,
+    "Electoral Votes": 7.4
+  },
+  {
+    "Riding": "ED007 Beaches--East York",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 206,
+    "Electoral Votes": 41.2
+  },
+  {
+    "Riding": "ED007 Beaches--East York",
+    "Candidate": "FORD, Doug",
+    "Ballots": 157,
+    "Electoral Votes": 31.4
+  },
+  {
+    "Riding": "ED007 Beaches--East York",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 100,
+    "Electoral Votes": 20
+  },
+  {
+    "Riding": "ED008 Brampton Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 39,
+    "Electoral Votes": 17.105
+  },
+  {
+    "Riding": "ED008 Brampton Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 83,
+    "Electoral Votes": 36.404
+  },
+  {
+    "Riding": "ED008 Brampton Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 90,
+    "Electoral Votes": 39.474
+  },
+  {
+    "Riding": "ED008 Brampton Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 16,
+    "Electoral Votes": 7.018
+  },
+  {
+    "Riding": "ED009 Brampton East",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 20,
+    "Electoral Votes": 3.442
+  },
+  {
+    "Riding": "ED009 Brampton East",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 276,
+    "Electoral Votes": 47.504
+  },
+  {
+    "Riding": "ED009 Brampton East",
+    "Candidate": "FORD, Doug",
+    "Ballots": 189,
+    "Electoral Votes": 32.53
+  },
+  {
+    "Riding": "ED009 Brampton East",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 96,
+    "Electoral Votes": 16.523
+  },
+  {
+    "Riding": "ED010 Brampton North",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 37,
+    "Electoral Votes": 12.333
+  },
+  {
+    "Riding": "ED010 Brampton North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 100,
+    "Electoral Votes": 33.333
+  },
+  {
+    "Riding": "ED010 Brampton North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 122,
+    "Electoral Votes": 40.667
+  },
+  {
+    "Riding": "ED010 Brampton North",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 41,
+    "Electoral Votes": 13.667
+  },
+  {
+    "Riding": "ED011 Brampton South",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 36,
+    "Electoral Votes": 9.677
+  },
+  {
+    "Riding": "ED011 Brampton South",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 100,
+    "Electoral Votes": 26.882
+  },
+  {
+    "Riding": "ED011 Brampton South",
+    "Candidate": "FORD, Doug",
+    "Ballots": 114,
+    "Electoral Votes": 30.645
+  },
+  {
+    "Riding": "ED011 Brampton South",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 122,
+    "Electoral Votes": 32.796
+  },
+  {
+    "Riding": "ED012 Brampton West",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 28,
+    "Electoral Votes": 8.615
+  },
+  {
+    "Riding": "ED012 Brampton West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 171,
+    "Electoral Votes": 52.615
+  },
+  {
+    "Riding": "ED012 Brampton West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 105,
+    "Electoral Votes": 32.308
+  },
+  {
+    "Riding": "ED012 Brampton West",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 21,
+    "Electoral Votes": 6.462
+  },
+  {
+    "Riding": "ED013 Brantford--Brant",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 176,
+    "Electoral Votes": 23.848
+  },
+  {
+    "Riding": "ED013 Brantford--Brant",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 208,
+    "Electoral Votes": 28.184
+  },
+  {
+    "Riding": "ED013 Brantford--Brant",
+    "Candidate": "FORD, Doug",
+    "Ballots": 241,
+    "Electoral Votes": 32.656
+  },
+  {
+    "Riding": "ED013 Brantford--Brant",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 113,
+    "Electoral Votes": 15.312
+  },
+  {
+    "Riding": "ED014 Bruce--Grey--Owen Sound",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 166,
+    "Electoral Votes": 19.552
+  },
+  {
+    "Riding": "ED014 Bruce--Grey--Owen Sound",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 341,
+    "Electoral Votes": 40.165
+  },
+  {
+    "Riding": "ED014 Bruce--Grey--Owen Sound",
+    "Candidate": "FORD, Doug",
+    "Ballots": 194,
+    "Electoral Votes": 22.85
+  },
+  {
+    "Riding": "ED014 Bruce--Grey--Owen Sound",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 148,
+    "Electoral Votes": 17.432
+  },
+  {
+    "Riding": "ED015 Burlington",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 75,
+    "Electoral Votes": 11.295
+  },
+  {
+    "Riding": "ED015 Burlington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 266,
+    "Electoral Votes": 40.06
+  },
+  {
+    "Riding": "ED015 Burlington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 199,
+    "Electoral Votes": 29.97
+  },
+  {
+    "Riding": "ED015 Burlington",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 124,
+    "Electoral Votes": 18.675
+  },
+  {
+    "Riding": "ED016 Cambridge",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 139,
+    "Electoral Votes": 21.821
+  },
+  {
+    "Riding": "ED016 Cambridge",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 273,
+    "Electoral Votes": 42.857
+  },
+  {
+    "Riding": "ED016 Cambridge",
+    "Candidate": "FORD, Doug",
+    "Ballots": 147,
+    "Electoral Votes": 23.077
+  },
+  {
+    "Riding": "ED016 Cambridge",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 78,
+    "Electoral Votes": 12.245
+  },
+  {
+    "Riding": "ED017 Carleton",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 187,
+    "Electoral Votes": 17.998
+  },
+  {
+    "Riding": "ED017 Carleton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 288,
+    "Electoral Votes": 27.719
+  },
+  {
+    "Riding": "ED017 Carleton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 275,
+    "Electoral Votes": 26.468
+  },
+  {
+    "Riding": "ED017 Carleton",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 289,
+    "Electoral Votes": 27.815
+  },
+  {
+    "Riding": "ED018 Chatham-Kent--Leamington",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 108,
+    "Electoral Votes": 23.077
+  },
+  {
+    "Riding": "ED018 Chatham-Kent--Leamington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 142,
+    "Electoral Votes": 30.342
+  },
+  {
+    "Riding": "ED018 Chatham-Kent--Leamington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 138,
+    "Electoral Votes": 29.487
+  },
+  {
+    "Riding": "ED018 Chatham-Kent--Leamington",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 80,
+    "Electoral Votes": 17.094
+  },
+  {
+    "Riding": "ED019 Davenport",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 23,
+    "Electoral Votes": 10.9
+  },
+  {
+    "Riding": "ED019 Davenport",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 56,
+    "Electoral Votes": 26.54
+  },
+  {
+    "Riding": "ED019 Davenport",
+    "Candidate": "FORD, Doug",
+    "Ballots": 95,
+    "Electoral Votes": 45.024
+  },
+  {
+    "Riding": "ED019 Davenport",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 37,
+    "Electoral Votes": 17.536
+  },
+  {
+    "Riding": "ED020 Don Valley East",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 42,
+    "Electoral Votes": 11.23
+  },
+  {
+    "Riding": "ED020 Don Valley East",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 142,
+    "Electoral Votes": 37.968
+  },
+  {
+    "Riding": "ED020 Don Valley East",
+    "Candidate": "FORD, Doug",
+    "Ballots": 149,
+    "Electoral Votes": 39.84
+  },
+  {
+    "Riding": "ED020 Don Valley East",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 41,
+    "Electoral Votes": 10.963
+  },
+  {
+    "Riding": "ED021 Don Valley North",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 91,
+    "Electoral Votes": 13.501
+  },
+  {
+    "Riding": "ED021 Don Valley North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 139,
+    "Electoral Votes": 20.623
+  },
+  {
+    "Riding": "ED021 Don Valley North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 386,
+    "Electoral Votes": 57.27
+  },
+  {
+    "Riding": "ED021 Don Valley North",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 58,
+    "Electoral Votes": 8.605
+  },
+  {
+    "Riding": "ED022 Don Valley West",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 57,
+    "Electoral Votes": 4.273
+  },
+  {
+    "Riding": "ED022 Don Valley West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 606,
+    "Electoral Votes": 45.427
+  },
+  {
+    "Riding": "ED022 Don Valley West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 259,
+    "Electoral Votes": 19.415
+  },
+  {
+    "Riding": "ED022 Don Valley West",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 412,
+    "Electoral Votes": 30.885
+  },
+  {
+    "Riding": "ED023 Dufferin--Caledon",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 132,
+    "Electoral Votes": 13.415
+  },
+  {
+    "Riding": "ED023 Dufferin--Caledon",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 324,
+    "Electoral Votes": 32.927
+  },
+  {
+    "Riding": "ED023 Dufferin--Caledon",
+    "Candidate": "FORD, Doug",
+    "Ballots": 371,
+    "Electoral Votes": 37.703
+  },
+  {
+    "Riding": "ED023 Dufferin--Caledon",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 157,
+    "Electoral Votes": 15.955
+  },
+  {
+    "Riding": "ED024 Durham",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 117,
+    "Electoral Votes": 9.873
+  },
+  {
+    "Riding": "ED024 Durham",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 678,
+    "Electoral Votes": 57.215
+  },
+  {
+    "Riding": "ED024 Durham",
+    "Candidate": "FORD, Doug",
+    "Ballots": 318,
+    "Electoral Votes": 26.835
+  },
+  {
+    "Riding": "ED024 Durham",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 72,
+    "Electoral Votes": 6.076
+  },
+  {
+    "Riding": "ED025 Eglinton--Lawrence",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 40,
+    "Electoral Votes": 4.525
+  },
+  {
+    "Riding": "ED025 Eglinton--Lawrence",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 449,
+    "Electoral Votes": 50.792
+  },
+  {
+    "Riding": "ED025 Eglinton--Lawrence",
+    "Candidate": "FORD, Doug",
+    "Ballots": 159,
+    "Electoral Votes": 17.986
+  },
+  {
+    "Riding": "ED025 Eglinton--Lawrence",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 236,
+    "Electoral Votes": 26.697
+  },
+  {
+    "Riding": "ED026 Elgin--Middlesex--London",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 154,
+    "Electoral Votes": 21.844
+  },
+  {
+    "Riding": "ED026 Elgin--Middlesex--London",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 208,
+    "Electoral Votes": 29.504
+  },
+  {
+    "Riding": "ED026 Elgin--Middlesex--London",
+    "Candidate": "FORD, Doug",
+    "Ballots": 187,
+    "Electoral Votes": 26.525
+  },
+  {
+    "Riding": "ED026 Elgin--Middlesex--London",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 156,
+    "Electoral Votes": 22.128
+  },
+  {
+    "Riding": "ED027 Essex",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 123,
+    "Electoral Votes": 32.713
+  },
+  {
+    "Riding": "ED027 Essex",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 98,
+    "Electoral Votes": 26.064
+  },
+  {
+    "Riding": "ED027 Essex",
+    "Candidate": "FORD, Doug",
+    "Ballots": 90,
+    "Electoral Votes": 23.936
+  },
+  {
+    "Riding": "ED027 Essex",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 65,
+    "Electoral Votes": 17.287
+  },
+  {
+    "Riding": "ED028 Etobicoke Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 118,
+    "Electoral Votes": 12.253
+  },
+  {
+    "Riding": "ED028 Etobicoke Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 239,
+    "Electoral Votes": 24.818
+  },
+  {
+    "Riding": "ED028 Etobicoke Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 496,
+    "Electoral Votes": 51.506
+  },
+  {
+    "Riding": "ED028 Etobicoke Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 110,
+    "Electoral Votes": 11.423
+  },
+  {
+    "Riding": "ED029 Etobicoke--Lakeshore",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 97,
+    "Electoral Votes": 11.829
+  },
+  {
+    "Riding": "ED029 Etobicoke--Lakeshore",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 324,
+    "Electoral Votes": 39.512
+  },
+  {
+    "Riding": "ED029 Etobicoke--Lakeshore",
+    "Candidate": "FORD, Doug",
+    "Ballots": 281,
+    "Electoral Votes": 34.268
+  },
+  {
+    "Riding": "ED029 Etobicoke--Lakeshore",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 118,
+    "Electoral Votes": 14.39
+  },
+  {
+    "Riding": "ED030 Etobicoke North",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 55,
+    "Electoral Votes": 11.677
+  },
+  {
+    "Riding": "ED030 Etobicoke North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 44,
+    "Electoral Votes": 9.342
+  },
+  {
+    "Riding": "ED030 Etobicoke North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 353,
+    "Electoral Votes": 74.947
+  },
+  {
+    "Riding": "ED030 Etobicoke North",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 19,
+    "Electoral Votes": 4.034
+  },
+  {
+    "Riding": "ED031 Flamborough--Glanbrook",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 160,
+    "Electoral Votes": 24.465
+  },
+  {
+    "Riding": "ED031 Flamborough--Glanbrook",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 219,
+    "Electoral Votes": 33.486
+  },
+  {
+    "Riding": "ED031 Flamborough--Glanbrook",
+    "Candidate": "FORD, Doug",
+    "Ballots": 207,
+    "Electoral Votes": 31.651
+  },
+  {
+    "Riding": "ED031 Flamborough--Glanbrook",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 68,
+    "Electoral Votes": 10.398
+  },
+  {
+    "Riding": "ED032 Glengarry--Prescott--Russell",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 90,
+    "Electoral Votes": 22.556
+  },
+  {
+    "Riding": "ED032 Glengarry--Prescott--Russell",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 122,
+    "Electoral Votes": 30.576
+  },
+  {
+    "Riding": "ED032 Glengarry--Prescott--Russell",
+    "Candidate": "FORD, Doug",
+    "Ballots": 106,
+    "Electoral Votes": 26.566
+  },
+  {
+    "Riding": "ED032 Glengarry--Prescott--Russell",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 81,
+    "Electoral Votes": 20.301
+  },
+  {
+    "Riding": "ED033 Guelph",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 68,
+    "Electoral Votes": 16.268
+  },
+  {
+    "Riding": "ED033 Guelph",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 161,
+    "Electoral Votes": 38.517
+  },
+  {
+    "Riding": "ED033 Guelph",
+    "Candidate": "FORD, Doug",
+    "Ballots": 113,
+    "Electoral Votes": 27.033
+  },
+  {
+    "Riding": "ED033 Guelph",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 76,
+    "Electoral Votes": 18.182
+  },
+  {
+    "Riding": "ED034 Haldimand--Norfolk",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 120,
+    "Electoral Votes": 24.44
+  },
+  {
+    "Riding": "ED034 Haldimand--Norfolk",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 126,
+    "Electoral Votes": 25.662
+  },
+  {
+    "Riding": "ED034 Haldimand--Norfolk",
+    "Candidate": "FORD, Doug",
+    "Ballots": 195,
+    "Electoral Votes": 39.715
+  },
+  {
+    "Riding": "ED034 Haldimand--Norfolk",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 50,
+    "Electoral Votes": 10.183
+  },
+  {
+    "Riding": "ED035 Haliburton--Kawartha Lakes--Brock",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 102,
+    "Electoral Votes": 11.525
+  },
+  {
+    "Riding": "ED035 Haliburton--Kawartha Lakes--Brock",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 363,
+    "Electoral Votes": 41.017
+  },
+  {
+    "Riding": "ED035 Haliburton--Kawartha Lakes--Brock",
+    "Candidate": "FORD, Doug",
+    "Ballots": 302,
+    "Electoral Votes": 34.124
+  },
+  {
+    "Riding": "ED035 Haliburton--Kawartha Lakes--Brock",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 118,
+    "Electoral Votes": 13.333
+  },
+  {
+    "Riding": "ED036 Hamilton Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 31,
+    "Electoral Votes": 16.94
+  },
+  {
+    "Riding": "ED036 Hamilton Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 44,
+    "Electoral Votes": 24.044
+  },
+  {
+    "Riding": "ED036 Hamilton Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 86,
+    "Electoral Votes": 46.995
+  },
+  {
+    "Riding": "ED036 Hamilton Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 22,
+    "Electoral Votes": 12.022
+  },
+  {
+    "Riding": "ED037 Hamilton East--Stoney Creek",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 39,
+    "Electoral Votes": 15.476
+  },
+  {
+    "Riding": "ED037 Hamilton East--Stoney Creek",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 71,
+    "Electoral Votes": 28.175
+  },
+  {
+    "Riding": "ED037 Hamilton East--Stoney Creek",
+    "Candidate": "FORD, Doug",
+    "Ballots": 111,
+    "Electoral Votes": 44.048
+  },
+  {
+    "Riding": "ED037 Hamilton East--Stoney Creek",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 31,
+    "Electoral Votes": 12.302
+  },
+  {
+    "Riding": "ED038 Hamilton Mountain",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 42,
+    "Electoral Votes": 17.073
+  },
+  {
+    "Riding": "ED038 Hamilton Mountain",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 66,
+    "Electoral Votes": 26.829
+  },
+  {
+    "Riding": "ED038 Hamilton Mountain",
+    "Candidate": "FORD, Doug",
+    "Ballots": 115,
+    "Electoral Votes": 46.748
+  },
+  {
+    "Riding": "ED038 Hamilton Mountain",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 23,
+    "Electoral Votes": 9.35
+  },
+  {
+    "Riding": "ED039 Hamilton West--Ancaster--Dundas",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 105,
+    "Electoral Votes": 14.543
+  },
+  {
+    "Riding": "ED039 Hamilton West--Ancaster--Dundas",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 316,
+    "Electoral Votes": 43.767
+  },
+  {
+    "Riding": "ED039 Hamilton West--Ancaster--Dundas",
+    "Candidate": "FORD, Doug",
+    "Ballots": 196,
+    "Electoral Votes": 27.147
+  },
+  {
+    "Riding": "ED039 Hamilton West--Ancaster--Dundas",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 105,
+    "Electoral Votes": 14.543
+  },
+  {
+    "Riding": "ED040 Hastings--Lennox and Addington",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 73,
+    "Electoral Votes": 14.807
+  },
+  {
+    "Riding": "ED040 Hastings--Lennox and Addington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 203,
+    "Electoral Votes": 41.176
+  },
+  {
+    "Riding": "ED040 Hastings--Lennox and Addington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 141,
+    "Electoral Votes": 28.6
+  },
+  {
+    "Riding": "ED040 Hastings--Lennox and Addington",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 76,
+    "Electoral Votes": 15.416
+  },
+  {
+    "Riding": "ED041 Humber River--Black Creek",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 21,
+    "Electoral Votes": 13.208
+  },
+  {
+    "Riding": "ED041 Humber River--Black Creek",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 14,
+    "Electoral Votes": 8.805
+  },
+  {
+    "Riding": "ED041 Humber River--Black Creek",
+    "Candidate": "FORD, Doug",
+    "Ballots": 109,
+    "Electoral Votes": 68.553
+  },
+  {
+    "Riding": "ED041 Humber River--Black Creek",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 15,
+    "Electoral Votes": 9.434
+  },
+  {
+    "Riding": "ED042 Huron--Bruce",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 138,
+    "Electoral Votes": 24.468
+  },
+  {
+    "Riding": "ED042 Huron--Bruce",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 212,
+    "Electoral Votes": 37.589
+  },
+  {
+    "Riding": "ED042 Huron--Bruce",
+    "Candidate": "FORD, Doug",
+    "Ballots": 122,
+    "Electoral Votes": 21.631
+  },
+  {
+    "Riding": "ED042 Huron--Bruce",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 92,
+    "Electoral Votes": 16.312
+  },
+  {
+    "Riding": "ED043 Kanata--Carleton",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 139,
+    "Electoral Votes": 15.142
+  },
+  {
+    "Riding": "ED043 Kanata--Carleton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 277,
+    "Electoral Votes": 30.174
+  },
+  {
+    "Riding": "ED043 Kanata--Carleton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 210,
+    "Electoral Votes": 22.876
+  },
+  {
+    "Riding": "ED043 Kanata--Carleton",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 292,
+    "Electoral Votes": 31.808
+  },
+  {
+    "Riding": "ED044 Kenora--Rainy River",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 30,
+    "Electoral Votes": 15.789
+  },
+  {
+    "Riding": "ED044 Kenora--Rainy River",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 42,
+    "Electoral Votes": 22.105
+  },
+  {
+    "Riding": "ED044 Kenora--Rainy River",
+    "Candidate": "FORD, Doug",
+    "Ballots": 42,
+    "Electoral Votes": 22.105
+  },
+  {
+    "Riding": "ED044 Kenora--Rainy River",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 76,
+    "Electoral Votes": 40
+  },
+  {
+    "Riding": "ED045 King--Vaughan",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 60,
+    "Electoral Votes": 10.733
+  },
+  {
+    "Riding": "ED045 King--Vaughan",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 127,
+    "Electoral Votes": 22.719
+  },
+  {
+    "Riding": "ED045 King--Vaughan",
+    "Candidate": "FORD, Doug",
+    "Ballots": 261,
+    "Electoral Votes": 46.691
+  },
+  {
+    "Riding": "ED045 King--Vaughan",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 111,
+    "Electoral Votes": 19.857
+  },
+  {
+    "Riding": "ED046 Kingston and the Islands",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 85,
+    "Electoral Votes": 19.144
+  },
+  {
+    "Riding": "ED046 Kingston and the Islands",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 186,
+    "Electoral Votes": 41.892
+  },
+  {
+    "Riding": "ED046 Kingston and the Islands",
+    "Candidate": "FORD, Doug",
+    "Ballots": 68,
+    "Electoral Votes": 15.315
+  },
+  {
+    "Riding": "ED046 Kingston and the Islands",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 105,
+    "Electoral Votes": 23.649
+  },
+  {
+    "Riding": "ED047 Kitchener Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 146,
+    "Electoral Votes": 30.802
+  },
+  {
+    "Riding": "ED047 Kitchener Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 175,
+    "Electoral Votes": 36.92
+  },
+  {
+    "Riding": "ED047 Kitchener Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 97,
+    "Electoral Votes": 20.464
+  },
+  {
+    "Riding": "ED047 Kitchener Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 56,
+    "Electoral Votes": 11.814
+  },
+  {
+    "Riding": "ED048 Kitchener--Conestoga",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 141,
+    "Electoral Votes": 26.504
+  },
+  {
+    "Riding": "ED048 Kitchener--Conestoga",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 193,
+    "Electoral Votes": 36.278
+  },
+  {
+    "Riding": "ED048 Kitchener--Conestoga",
+    "Candidate": "FORD, Doug",
+    "Ballots": 135,
+    "Electoral Votes": 25.376
+  },
+  {
+    "Riding": "ED048 Kitchener--Conestoga",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 63,
+    "Electoral Votes": 11.842
+  },
+  {
+    "Riding": "ED049 Kitchener South--Hespeler",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 74,
+    "Electoral Votes": 16.972
+  },
+  {
+    "Riding": "ED049 Kitchener South--Hespeler",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 176,
+    "Electoral Votes": 40.367
+  },
+  {
+    "Riding": "ED049 Kitchener South--Hespeler",
+    "Candidate": "FORD, Doug",
+    "Ballots": 135,
+    "Electoral Votes": 30.963
+  },
+  {
+    "Riding": "ED049 Kitchener South--Hespeler",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 51,
+    "Electoral Votes": 11.697
+  },
+  {
+    "Riding": "ED050 Lambton--Kent--Middlesex",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 92,
+    "Electoral Votes": 20.309
+  },
+  {
+    "Riding": "ED050 Lambton--Kent--Middlesex",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 108,
+    "Electoral Votes": 23.841
+  },
+  {
+    "Riding": "ED050 Lambton--Kent--Middlesex",
+    "Candidate": "FORD, Doug",
+    "Ballots": 120,
+    "Electoral Votes": 26.49
+  },
+  {
+    "Riding": "ED050 Lambton--Kent--Middlesex",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 133,
+    "Electoral Votes": 29.36
+  },
+  {
+    "Riding": "ED051 Lanark--Frontenac--Kingston",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 77,
+    "Electoral Votes": 16.524
+  },
+  {
+    "Riding": "ED051 Lanark--Frontenac--Kingston",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 192,
+    "Electoral Votes": 41.202
+  },
+  {
+    "Riding": "ED051 Lanark--Frontenac--Kingston",
+    "Candidate": "FORD, Doug",
+    "Ballots": 96,
+    "Electoral Votes": 20.601
+  },
+  {
+    "Riding": "ED051 Lanark--Frontenac--Kingston",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 101,
+    "Electoral Votes": 21.674
+  },
+  {
+    "Riding": "ED052 Leeds--Grenville--Thousand Islands and Rideau Lakes",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 53,
+    "Electoral Votes": 11.726
+  },
+  {
+    "Riding": "ED052 Leeds--Grenville--Thousand Islands and Rideau Lakes",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 119,
+    "Electoral Votes": 26.327
+  },
+  {
+    "Riding": "ED052 Leeds--Grenville--Thousand Islands and Rideau Lakes",
+    "Candidate": "FORD, Doug",
+    "Ballots": 141,
+    "Electoral Votes": 31.195
+  },
+  {
+    "Riding": "ED052 Leeds--Grenville--Thousand Islands and Rideau Lakes",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 139,
+    "Electoral Votes": 30.752
+  },
+  {
+    "Riding": "ED053 London--Fanshawe",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 64,
+    "Electoral Votes": 24.903
+  },
+  {
+    "Riding": "ED053 London--Fanshawe",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 80,
+    "Electoral Votes": 31.128
+  },
+  {
+    "Riding": "ED053 London--Fanshawe",
+    "Candidate": "FORD, Doug",
+    "Ballots": 88,
+    "Electoral Votes": 34.241
+  },
+  {
+    "Riding": "ED053 London--Fanshawe",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 25,
+    "Electoral Votes": 9.728
+  },
+  {
+    "Riding": "ED054 London North Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 98,
+    "Electoral Votes": 14.627
+  },
+  {
+    "Riding": "ED054 London North Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 271,
+    "Electoral Votes": 40.448
+  },
+  {
+    "Riding": "ED054 London North Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 152,
+    "Electoral Votes": 22.687
+  },
+  {
+    "Riding": "ED054 London North Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 149,
+    "Electoral Votes": 22.239
+  },
+  {
+    "Riding": "ED055 London West",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 111,
+    "Electoral Votes": 16.444
+  },
+  {
+    "Riding": "ED055 London West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 294,
+    "Electoral Votes": 43.556
+  },
+  {
+    "Riding": "ED055 London West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 132,
+    "Electoral Votes": 19.556
+  },
+  {
+    "Riding": "ED055 London West",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 138,
+    "Electoral Votes": 20.444
+  },
+  {
+    "Riding": "ED056 Markham--Stouffville",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 92,
+    "Electoral Votes": 14.089
+  },
+  {
+    "Riding": "ED056 Markham--Stouffville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 237,
+    "Electoral Votes": 36.294
+  },
+  {
+    "Riding": "ED056 Markham--Stouffville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 260,
+    "Electoral Votes": 39.816
+  },
+  {
+    "Riding": "ED056 Markham--Stouffville",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 64,
+    "Electoral Votes": 9.801
+  },
+  {
+    "Riding": "ED057 Markham--Thornhill",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 35,
+    "Electoral Votes": 11.667
+  },
+  {
+    "Riding": "ED057 Markham--Thornhill",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 122,
+    "Electoral Votes": 40.667
+  },
+  {
+    "Riding": "ED057 Markham--Thornhill",
+    "Candidate": "FORD, Doug",
+    "Ballots": 101,
+    "Electoral Votes": 33.667
+  },
+  {
+    "Riding": "ED057 Markham--Thornhill",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 42,
+    "Electoral Votes": 14
+  },
+  {
+    "Riding": "ED058 Markham--Unionville",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 105,
+    "Electoral Votes": 12.836
+  },
+  {
+    "Riding": "ED058 Markham--Unionville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 164,
+    "Electoral Votes": 20.049
+  },
+  {
+    "Riding": "ED058 Markham--Unionville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 494,
+    "Electoral Votes": 60.391
+  },
+  {
+    "Riding": "ED058 Markham--Unionville",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 55,
+    "Electoral Votes": 6.724
+  },
+  {
+    "Riding": "ED059 Milton",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 115,
+    "Electoral Votes": 22.244
+  },
+  {
+    "Riding": "ED059 Milton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 147,
+    "Electoral Votes": 28.433
+  },
+  {
+    "Riding": "ED059 Milton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 189,
+    "Electoral Votes": 36.557
+  },
+  {
+    "Riding": "ED059 Milton",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 66,
+    "Electoral Votes": 12.766
+  },
+  {
+    "Riding": "ED060 Mississauga Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 64,
+    "Electoral Votes": 17.582
+  },
+  {
+    "Riding": "ED060 Mississauga Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 102,
+    "Electoral Votes": 28.022
+  },
+  {
+    "Riding": "ED060 Mississauga Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 168,
+    "Electoral Votes": 46.154
+  },
+  {
+    "Riding": "ED060 Mississauga Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 30,
+    "Electoral Votes": 8.242
+  },
+  {
+    "Riding": "ED061 Mississauga East--Cooksville",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 87,
+    "Electoral Votes": 22.539
+  },
+  {
+    "Riding": "ED061 Mississauga East--Cooksville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 59,
+    "Electoral Votes": 15.285
+  },
+  {
+    "Riding": "ED061 Mississauga East--Cooksville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 192,
+    "Electoral Votes": 49.741
+  },
+  {
+    "Riding": "ED061 Mississauga East--Cooksville",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 48,
+    "Electoral Votes": 12.435
+  },
+  {
+    "Riding": "ED062 Mississauga--Erin Mills",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 87,
+    "Electoral Votes": 16.446
+  },
+  {
+    "Riding": "ED062 Mississauga--Erin Mills",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 114,
+    "Electoral Votes": 21.55
+  },
+  {
+    "Riding": "ED062 Mississauga--Erin Mills",
+    "Candidate": "FORD, Doug",
+    "Ballots": 285,
+    "Electoral Votes": 53.875
+  },
+  {
+    "Riding": "ED062 Mississauga--Erin Mills",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 43,
+    "Electoral Votes": 8.129
+  },
+  {
+    "Riding": "ED063 Mississauga--Lakeshore",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 78,
+    "Electoral Votes": 9.112
+  },
+  {
+    "Riding": "ED063 Mississauga--Lakeshore",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 362,
+    "Electoral Votes": 42.29
+  },
+  {
+    "Riding": "ED063 Mississauga--Lakeshore",
+    "Candidate": "FORD, Doug",
+    "Ballots": 255,
+    "Electoral Votes": 29.79
+  },
+  {
+    "Riding": "ED063 Mississauga--Lakeshore",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 161,
+    "Electoral Votes": 18.808
+  },
+  {
+    "Riding": "ED064 Mississauga--Malton",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 68,
+    "Electoral Votes": 12.5
+  },
+  {
+    "Riding": "ED064 Mississauga--Malton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 228,
+    "Electoral Votes": 41.912
+  },
+  {
+    "Riding": "ED064 Mississauga--Malton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 179,
+    "Electoral Votes": 32.904
+  },
+  {
+    "Riding": "ED064 Mississauga--Malton",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 69,
+    "Electoral Votes": 12.684
+  },
+  {
+    "Riding": "ED065 Mississauga--Streetsville",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 58,
+    "Electoral Votes": 12.719
+  },
+  {
+    "Riding": "ED065 Mississauga--Streetsville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 115,
+    "Electoral Votes": 25.219
+  },
+  {
+    "Riding": "ED065 Mississauga--Streetsville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 242,
+    "Electoral Votes": 53.07
+  },
+  {
+    "Riding": "ED065 Mississauga--Streetsville",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 41,
+    "Electoral Votes": 8.991
+  },
+  {
+    "Riding": "ED066 Nepean",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 84,
+    "Electoral Votes": 13.839
+  },
+  {
+    "Riding": "ED066 Nepean",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 192,
+    "Electoral Votes": 31.631
+  },
+  {
+    "Riding": "ED066 Nepean",
+    "Candidate": "FORD, Doug",
+    "Ballots": 158,
+    "Electoral Votes": 26.03
+  },
+  {
+    "Riding": "ED066 Nepean",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 173,
+    "Electoral Votes": 28.501
+  },
+  {
+    "Riding": "ED067 Newmarket--Aurora",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 71,
+    "Electoral Votes": 10.201
+  },
+  {
+    "Riding": "ED067 Newmarket--Aurora",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 235,
+    "Electoral Votes": 33.764
+  },
+  {
+    "Riding": "ED067 Newmarket--Aurora",
+    "Candidate": "FORD, Doug",
+    "Ballots": 302,
+    "Electoral Votes": 43.391
+  },
+  {
+    "Riding": "ED067 Newmarket--Aurora",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 88,
+    "Electoral Votes": 12.644
+  },
+  {
+    "Riding": "ED068 Niagara Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 85,
+    "Electoral Votes": 17.068
+  },
+  {
+    "Riding": "ED068 Niagara Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 132,
+    "Electoral Votes": 26.506
+  },
+  {
+    "Riding": "ED068 Niagara Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 236,
+    "Electoral Votes": 47.39
+  },
+  {
+    "Riding": "ED068 Niagara Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 45,
+    "Electoral Votes": 9.036
+  },
+  {
+    "Riding": "ED069 Niagara Falls",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 47,
+    "Electoral Votes": 10.021
+  },
+  {
+    "Riding": "ED069 Niagara Falls",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 181,
+    "Electoral Votes": 38.593
+  },
+  {
+    "Riding": "ED069 Niagara Falls",
+    "Candidate": "FORD, Doug",
+    "Ballots": 148,
+    "Electoral Votes": 31.557
+  },
+  {
+    "Riding": "ED069 Niagara Falls",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 93,
+    "Electoral Votes": 19.829
+  },
+  {
+    "Riding": "ED070 Niagara West",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 166,
+    "Electoral Votes": 29.329
+  },
+  {
+    "Riding": "ED070 Niagara West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 208,
+    "Electoral Votes": 36.749
+  },
+  {
+    "Riding": "ED070 Niagara West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 130,
+    "Electoral Votes": 22.968
+  },
+  {
+    "Riding": "ED070 Niagara West",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 62,
+    "Electoral Votes": 10.954
+  },
+  {
+    "Riding": "ED071 Nickel Belt",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 17,
+    "Electoral Votes": 11.258
+  },
+  {
+    "Riding": "ED071 Nickel Belt",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 41,
+    "Electoral Votes": 27.152
+  },
+  {
+    "Riding": "ED071 Nickel Belt",
+    "Candidate": "FORD, Doug",
+    "Ballots": 58,
+    "Electoral Votes": 38.411
+  },
+  {
+    "Riding": "ED071 Nickel Belt",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 35,
+    "Electoral Votes": 23.179
+  },
+  {
+    "Riding": "ED072 Nipissing",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 56,
+    "Electoral Votes": 16.817
+  },
+  {
+    "Riding": "ED072 Nipissing",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 161,
+    "Electoral Votes": 48.348
+  },
+  {
+    "Riding": "ED072 Nipissing",
+    "Candidate": "FORD, Doug",
+    "Ballots": 66,
+    "Electoral Votes": 19.82
+  },
+  {
+    "Riding": "ED072 Nipissing",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 50,
+    "Electoral Votes": 15.015
+  },
+  {
+    "Riding": "ED073 Northumberland--Peterborough South",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 58,
+    "Electoral Votes": 8.567
+  },
+  {
+    "Riding": "ED073 Northumberland--Peterborough South",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 377,
+    "Electoral Votes": 55.687
+  },
+  {
+    "Riding": "ED073 Northumberland--Peterborough South",
+    "Candidate": "FORD, Doug",
+    "Ballots": 191,
+    "Electoral Votes": 28.213
+  },
+  {
+    "Riding": "ED073 Northumberland--Peterborough South",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 51,
+    "Electoral Votes": 7.533
+  },
+  {
+    "Riding": "ED074 Oakville",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 120,
+    "Electoral Votes": 10.801
+  },
+  {
+    "Riding": "ED074 Oakville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 426,
+    "Electoral Votes": 38.344
+  },
+  {
+    "Riding": "ED074 Oakville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 297,
+    "Electoral Votes": 26.733
+  },
+  {
+    "Riding": "ED074 Oakville",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 268,
+    "Electoral Votes": 24.122
+  },
+  {
+    "Riding": "ED075 Oakville North--Burlington",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 97,
+    "Electoral Votes": 11.631
+  },
+  {
+    "Riding": "ED075 Oakville North--Burlington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 317,
+    "Electoral Votes": 38.01
+  },
+  {
+    "Riding": "ED075 Oakville North--Burlington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 255,
+    "Electoral Votes": 30.576
+  },
+  {
+    "Riding": "ED075 Oakville North--Burlington",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 165,
+    "Electoral Votes": 19.784
+  },
+  {
+    "Riding": "ED076 Orléans",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 161,
+    "Electoral Votes": 28.295
+  },
+  {
+    "Riding": "ED076 Orléans",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 169,
+    "Electoral Votes": 29.701
+  },
+  {
+    "Riding": "ED076 Orléans",
+    "Candidate": "FORD, Doug",
+    "Ballots": 133,
+    "Electoral Votes": 23.374
+  },
+  {
+    "Riding": "ED076 Orléans",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 106,
+    "Electoral Votes": 18.629
+  },
+  {
+    "Riding": "ED077 Oshawa",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 69,
+    "Electoral Votes": 11.005
+  },
+  {
+    "Riding": "ED077 Oshawa",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 371,
+    "Electoral Votes": 59.171
+  },
+  {
+    "Riding": "ED077 Oshawa",
+    "Candidate": "FORD, Doug",
+    "Ballots": 154,
+    "Electoral Votes": 24.561
+  },
+  {
+    "Riding": "ED077 Oshawa",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 33,
+    "Electoral Votes": 5.263
+  },
+  {
+    "Riding": "ED078 Ottawa Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 88,
+    "Electoral Votes": 15.439
+  },
+  {
+    "Riding": "ED078 Ottawa Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 205,
+    "Electoral Votes": 35.965
+  },
+  {
+    "Riding": "ED078 Ottawa Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 110,
+    "Electoral Votes": 19.298
+  },
+  {
+    "Riding": "ED078 Ottawa Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 167,
+    "Electoral Votes": 29.298
+  },
+  {
+    "Riding": "ED079 Ottawa South",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 115,
+    "Electoral Votes": 21.179
+  },
+  {
+    "Riding": "ED079 Ottawa South",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 195,
+    "Electoral Votes": 35.912
+  },
+  {
+    "Riding": "ED079 Ottawa South",
+    "Candidate": "FORD, Doug",
+    "Ballots": 107,
+    "Electoral Votes": 19.705
+  },
+  {
+    "Riding": "ED079 Ottawa South",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 126,
+    "Electoral Votes": 23.204
+  },
+  {
+    "Riding": "ED080 Ottawa--Vanier",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 66,
+    "Electoral Votes": 20
+  },
+  {
+    "Riding": "ED080 Ottawa--Vanier",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 114,
+    "Electoral Votes": 34.545
+  },
+  {
+    "Riding": "ED080 Ottawa--Vanier",
+    "Candidate": "FORD, Doug",
+    "Ballots": 68,
+    "Electoral Votes": 20.606
+  },
+  {
+    "Riding": "ED080 Ottawa--Vanier",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 82,
+    "Electoral Votes": 24.848
+  },
+  {
+    "Riding": "ED081 Ottawa West--Nepean",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 118,
+    "Electoral Votes": 17.101
+  },
+  {
+    "Riding": "ED081 Ottawa West--Nepean",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 253,
+    "Electoral Votes": 36.667
+  },
+  {
+    "Riding": "ED081 Ottawa West--Nepean",
+    "Candidate": "FORD, Doug",
+    "Ballots": 157,
+    "Electoral Votes": 22.754
+  },
+  {
+    "Riding": "ED081 Ottawa West--Nepean",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 162,
+    "Electoral Votes": 23.478
+  },
+  {
+    "Riding": "ED082 Oxford",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 187,
+    "Electoral Votes": 28.29
+  },
+  {
+    "Riding": "ED082 Oxford",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 211,
+    "Electoral Votes": 31.921
+  },
+  {
+    "Riding": "ED082 Oxford",
+    "Candidate": "FORD, Doug",
+    "Ballots": 174,
+    "Electoral Votes": 26.324
+  },
+  {
+    "Riding": "ED082 Oxford",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 89,
+    "Electoral Votes": 13.464
+  },
+  {
+    "Riding": "ED083 Parkdale--High Park",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 75,
+    "Electoral Votes": 14.313
+  },
+  {
+    "Riding": "ED083 Parkdale--High Park",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 192,
+    "Electoral Votes": 36.641
+  },
+  {
+    "Riding": "ED083 Parkdale--High Park",
+    "Candidate": "FORD, Doug",
+    "Ballots": 137,
+    "Electoral Votes": 26.145
+  },
+  {
+    "Riding": "ED083 Parkdale--High Park",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 120,
+    "Electoral Votes": 22.901
+  },
+  {
+    "Riding": "ED084 Parry Sound--Muskoka",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 32,
+    "Electoral Votes": 6.439
+  },
+  {
+    "Riding": "ED084 Parry Sound--Muskoka",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 165,
+    "Electoral Votes": 33.199
+  },
+  {
+    "Riding": "ED084 Parry Sound--Muskoka",
+    "Candidate": "FORD, Doug",
+    "Ballots": 154,
+    "Electoral Votes": 30.986
+  },
+  {
+    "Riding": "ED084 Parry Sound--Muskoka",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 146,
+    "Electoral Votes": 29.376
+  },
+  {
+    "Riding": "ED085 Perth--Wellington",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 111,
+    "Electoral Votes": 20.709
+  },
+  {
+    "Riding": "ED085 Perth--Wellington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 199,
+    "Electoral Votes": 37.127
+  },
+  {
+    "Riding": "ED085 Perth--Wellington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 145,
+    "Electoral Votes": 27.052
+  },
+  {
+    "Riding": "ED085 Perth--Wellington",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 81,
+    "Electoral Votes": 15.112
+  },
+  {
+    "Riding": "ED086 Peterborough--Kawartha",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 75,
+    "Electoral Votes": 14.62
+  },
+  {
+    "Riding": "ED086 Peterborough--Kawartha",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 249,
+    "Electoral Votes": 48.538
+  },
+  {
+    "Riding": "ED086 Peterborough--Kawartha",
+    "Candidate": "FORD, Doug",
+    "Ballots": 130,
+    "Electoral Votes": 25.341
+  },
+  {
+    "Riding": "ED086 Peterborough--Kawartha",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 59,
+    "Electoral Votes": 11.501
+  },
+  {
+    "Riding": "ED087 Pickering--Uxbridge",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 69,
+    "Electoral Votes": 12.105
+  },
+  {
+    "Riding": "ED087 Pickering--Uxbridge",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 249,
+    "Electoral Votes": 43.684
+  },
+  {
+    "Riding": "ED087 Pickering--Uxbridge",
+    "Candidate": "FORD, Doug",
+    "Ballots": 182,
+    "Electoral Votes": 31.93
+  },
+  {
+    "Riding": "ED087 Pickering--Uxbridge",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 70,
+    "Electoral Votes": 12.281
+  },
+  {
+    "Riding": "ED088 Renfrew--Nipissing--Pembroke",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 169,
+    "Electoral Votes": 26.656
+  },
+  {
+    "Riding": "ED088 Renfrew--Nipissing--Pembroke",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 113,
+    "Electoral Votes": 17.823
+  },
+  {
+    "Riding": "ED088 Renfrew--Nipissing--Pembroke",
+    "Candidate": "FORD, Doug",
+    "Ballots": 197,
+    "Electoral Votes": 31.073
+  },
+  {
+    "Riding": "ED088 Renfrew--Nipissing--Pembroke",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 155,
+    "Electoral Votes": 24.448
+  },
+  {
+    "Riding": "ED089 Richmond Hill",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 51,
+    "Electoral Votes": 10.714
+  },
+  {
+    "Riding": "ED089 Richmond Hill",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 144,
+    "Electoral Votes": 30.252
+  },
+  {
+    "Riding": "ED089 Richmond Hill",
+    "Candidate": "FORD, Doug",
+    "Ballots": 233,
+    "Electoral Votes": 48.95
+  },
+  {
+    "Riding": "ED089 Richmond Hill",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 48,
+    "Electoral Votes": 10.084
+  },
+  {
+    "Riding": "ED090 St. Catharines",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 70,
+    "Electoral Votes": 18.767
+  },
+  {
+    "Riding": "ED090 St. Catharines",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 113,
+    "Electoral Votes": 30.295
+  },
+  {
+    "Riding": "ED090 St. Catharines",
+    "Candidate": "FORD, Doug",
+    "Ballots": 114,
+    "Electoral Votes": 30.563
+  },
+  {
+    "Riding": "ED090 St. Catharines",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 76,
+    "Electoral Votes": 20.375
+  },
+  {
+    "Riding": "ED091 Sarnia--Lambton",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 147,
+    "Electoral Votes": 24.338
+  },
+  {
+    "Riding": "ED091 Sarnia--Lambton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 167,
+    "Electoral Votes": 27.649
+  },
+  {
+    "Riding": "ED091 Sarnia--Lambton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 174,
+    "Electoral Votes": 28.808
+  },
+  {
+    "Riding": "ED091 Sarnia--Lambton",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 116,
+    "Electoral Votes": 19.205
+  },
+  {
+    "Riding": "ED092 Sault Ste. Marie",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 36,
+    "Electoral Votes": 23.226
+  },
+  {
+    "Riding": "ED092 Sault Ste. Marie",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 65,
+    "Electoral Votes": 41.935
+  },
+  {
+    "Riding": "ED092 Sault Ste. Marie",
+    "Candidate": "FORD, Doug",
+    "Ballots": 37,
+    "Electoral Votes": 23.871
+  },
+  {
+    "Riding": "ED092 Sault Ste. Marie",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 17,
+    "Electoral Votes": 10.968
+  },
+  {
+    "Riding": "ED093 Scarborough--Agincourt",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 64,
+    "Electoral Votes": 17.158
+  },
+  {
+    "Riding": "ED093 Scarborough--Agincourt",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 80,
+    "Electoral Votes": 21.448
+  },
+  {
+    "Riding": "ED093 Scarborough--Agincourt",
+    "Candidate": "FORD, Doug",
+    "Ballots": 197,
+    "Electoral Votes": 52.815
+  },
+  {
+    "Riding": "ED093 Scarborough--Agincourt",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 32,
+    "Electoral Votes": 8.579
+  },
+  {
+    "Riding": "ED094 Scarborough Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 54,
+    "Electoral Votes": 14.099
+  },
+  {
+    "Riding": "ED094 Scarborough Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 121,
+    "Electoral Votes": 31.593
+  },
+  {
+    "Riding": "ED094 Scarborough Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 171,
+    "Electoral Votes": 44.648
+  },
+  {
+    "Riding": "ED094 Scarborough Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 37,
+    "Electoral Votes": 9.661
+  },
+  {
+    "Riding": "ED095 Scarborough--Guildwood",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 36,
+    "Electoral Votes": 9.836
+  },
+  {
+    "Riding": "ED095 Scarborough--Guildwood",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 85,
+    "Electoral Votes": 23.224
+  },
+  {
+    "Riding": "ED095 Scarborough--Guildwood",
+    "Candidate": "FORD, Doug",
+    "Ballots": 205,
+    "Electoral Votes": 56.011
+  },
+  {
+    "Riding": "ED095 Scarborough--Guildwood",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 40,
+    "Electoral Votes": 10.929
+  },
+  {
+    "Riding": "ED096 Scarborough North",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 40,
+    "Electoral Votes": 18.519
+  },
+  {
+    "Riding": "ED096 Scarborough North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 36,
+    "Electoral Votes": 16.667
+  },
+  {
+    "Riding": "ED096 Scarborough North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 133,
+    "Electoral Votes": 61.574
+  },
+  {
+    "Riding": "ED096 Scarborough North",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 7,
+    "Electoral Votes": 3.241
+  },
+  {
+    "Riding": "ED097 Scarborough--Rouge Park",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 80,
+    "Electoral Votes": 18.265
+  },
+  {
+    "Riding": "ED097 Scarborough--Rouge Park",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 120,
+    "Electoral Votes": 27.397
+  },
+  {
+    "Riding": "ED097 Scarborough--Rouge Park",
+    "Candidate": "FORD, Doug",
+    "Ballots": 146,
+    "Electoral Votes": 33.333
+  },
+  {
+    "Riding": "ED097 Scarborough--Rouge Park",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 92,
+    "Electoral Votes": 21.005
+  },
+  {
+    "Riding": "ED098 Scarborough Southwest",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 35,
+    "Electoral Votes": 10.448
+  },
+  {
+    "Riding": "ED098 Scarborough Southwest",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 108,
+    "Electoral Votes": 32.239
+  },
+  {
+    "Riding": "ED098 Scarborough Southwest",
+    "Candidate": "FORD, Doug",
+    "Ballots": 149,
+    "Electoral Votes": 44.478
+  },
+  {
+    "Riding": "ED098 Scarborough Southwest",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 43,
+    "Electoral Votes": 12.836
+  },
+  {
+    "Riding": "ED099 Simcoe--Grey",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 75,
+    "Electoral Votes": 13.228
+  },
+  {
+    "Riding": "ED099 Simcoe--Grey",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 233,
+    "Electoral Votes": 41.093
+  },
+  {
+    "Riding": "ED099 Simcoe--Grey",
+    "Candidate": "FORD, Doug",
+    "Ballots": 191,
+    "Electoral Votes": 33.686
+  },
+  {
+    "Riding": "ED099 Simcoe--Grey",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 68,
+    "Electoral Votes": 11.993
+  },
+  {
+    "Riding": "ED100 Simcoe North",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 46,
+    "Electoral Votes": 6.907
+  },
+  {
+    "Riding": "ED100 Simcoe North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 319,
+    "Electoral Votes": 47.898
+  },
+  {
+    "Riding": "ED100 Simcoe North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 181,
+    "Electoral Votes": 27.177
+  },
+  {
+    "Riding": "ED100 Simcoe North",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 120,
+    "Electoral Votes": 18.018
+  },
+  {
+    "Riding": "ED101 Spadina--Fort York",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 24,
+    "Electoral Votes": 4.66
+  },
+  {
+    "Riding": "ED101 Spadina--Fort York",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 231,
+    "Electoral Votes": 44.854
+  },
+  {
+    "Riding": "ED101 Spadina--Fort York",
+    "Candidate": "FORD, Doug",
+    "Ballots": 125,
+    "Electoral Votes": 24.272
+  },
+  {
+    "Riding": "ED101 Spadina--Fort York",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 135,
+    "Electoral Votes": 26.214
+  },
+  {
+    "Riding": "ED102 Stormont--Dundas--South Glengarry",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 39,
+    "Electoral Votes": 11.239
+  },
+  {
+    "Riding": "ED102 Stormont--Dundas--South Glengarry",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 141,
+    "Electoral Votes": 40.634
+  },
+  {
+    "Riding": "ED102 Stormont--Dundas--South Glengarry",
+    "Candidate": "FORD, Doug",
+    "Ballots": 102,
+    "Electoral Votes": 29.395
+  },
+  {
+    "Riding": "ED102 Stormont--Dundas--South Glengarry",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 65,
+    "Electoral Votes": 18.732
+  },
+  {
+    "Riding": "ED103 Sudbury",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 29,
+    "Electoral Votes": 13.942
+  },
+  {
+    "Riding": "ED103 Sudbury",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 69,
+    "Electoral Votes": 33.173
+  },
+  {
+    "Riding": "ED103 Sudbury",
+    "Candidate": "FORD, Doug",
+    "Ballots": 77,
+    "Electoral Votes": 37.019
+  },
+  {
+    "Riding": "ED103 Sudbury",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 33,
+    "Electoral Votes": 15.865
+  },
+  {
+    "Riding": "ED104 Thornhill",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 66,
+    "Electoral Votes": 11.807
+  },
+  {
+    "Riding": "ED104 Thornhill",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 209,
+    "Electoral Votes": 37.388
+  },
+  {
+    "Riding": "ED104 Thornhill",
+    "Candidate": "FORD, Doug",
+    "Ballots": 200,
+    "Electoral Votes": 35.778
+  },
+  {
+    "Riding": "ED104 Thornhill",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 84,
+    "Electoral Votes": 15.027
+  },
+  {
+    "Riding": "ED105 Thunder Bay--Atikokan",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 41,
+    "Electoral Votes": 23.563
+  },
+  {
+    "Riding": "ED105 Thunder Bay--Atikokan",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 73,
+    "Electoral Votes": 41.954
+  },
+  {
+    "Riding": "ED105 Thunder Bay--Atikokan",
+    "Candidate": "FORD, Doug",
+    "Ballots": 39,
+    "Electoral Votes": 22.414
+  },
+  {
+    "Riding": "ED105 Thunder Bay--Atikokan",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 21,
+    "Electoral Votes": 12.069
+  },
+  {
+    "Riding": "ED106 Thunder Bay--Superior North",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 19,
+    "Electoral Votes": 14.394
+  },
+  {
+    "Riding": "ED106 Thunder Bay--Superior North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 38,
+    "Electoral Votes": 28.788
+  },
+  {
+    "Riding": "ED106 Thunder Bay--Superior North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 44,
+    "Electoral Votes": 33.333
+  },
+  {
+    "Riding": "ED106 Thunder Bay--Superior North",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 31,
+    "Electoral Votes": 23.485
+  },
+  {
+    "Riding": "ED107 Timiskaming--Cochrane",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 37,
+    "Electoral Votes": 25.874
+  },
+  {
+    "Riding": "ED107 Timiskaming--Cochrane",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 35,
+    "Electoral Votes": 24.476
+  },
+  {
+    "Riding": "ED107 Timiskaming--Cochrane",
+    "Candidate": "FORD, Doug",
+    "Ballots": 52,
+    "Electoral Votes": 36.364
+  },
+  {
+    "Riding": "ED107 Timiskaming--Cochrane",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 19,
+    "Electoral Votes": 13.287
+  },
+  {
+    "Riding": "ED108 Timmins",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 4,
+    "Electoral Votes": 4
+  },
+  {
+    "Riding": "ED108 Timmins",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 25,
+    "Electoral Votes": 25
+  },
+  {
+    "Riding": "ED108 Timmins",
+    "Candidate": "FORD, Doug",
+    "Ballots": 21,
+    "Electoral Votes": 21
+  },
+  {
+    "Riding": "ED108 Timmins",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 28,
+    "Electoral Votes": 28
+  },
+  {
+    "Riding": "ED109 Toronto Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 27,
+    "Electoral Votes": 7.297
+  },
+  {
+    "Riding": "ED109 Toronto Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 171,
+    "Electoral Votes": 46.216
+  },
+  {
+    "Riding": "ED109 Toronto Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 70,
+    "Electoral Votes": 18.919
+  },
+  {
+    "Riding": "ED109 Toronto Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 102,
+    "Electoral Votes": 27.568
+  },
+  {
+    "Riding": "ED110 Toronto--Danforth",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 22,
+    "Electoral Votes": 6.471
+  },
+  {
+    "Riding": "ED110 Toronto--Danforth",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 121,
+    "Electoral Votes": 35.588
+  },
+  {
+    "Riding": "ED110 Toronto--Danforth",
+    "Candidate": "FORD, Doug",
+    "Ballots": 94,
+    "Electoral Votes": 27.647
+  },
+  {
+    "Riding": "ED110 Toronto--Danforth",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 103,
+    "Electoral Votes": 30.294
+  },
+  {
+    "Riding": "ED111 Toronto--St. Paul's",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 46,
+    "Electoral Votes": 5.431
+  },
+  {
+    "Riding": "ED111 Toronto--St. Paul's",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 365,
+    "Electoral Votes": 43.093
+  },
+  {
+    "Riding": "ED111 Toronto--St. Paul's",
+    "Candidate": "FORD, Doug",
+    "Ballots": 113,
+    "Electoral Votes": 13.341
+  },
+  {
+    "Riding": "ED111 Toronto--St. Paul's",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 323,
+    "Electoral Votes": 38.135
+  },
+  {
+    "Riding": "ED112 University--Rosedale",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 31,
+    "Electoral Votes": 3.26
+  },
+  {
+    "Riding": "ED112 University--Rosedale",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 417,
+    "Electoral Votes": 43.849
+  },
+  {
+    "Riding": "ED112 University--Rosedale",
+    "Candidate": "FORD, Doug",
+    "Ballots": 111,
+    "Electoral Votes": 11.672
+  },
+  {
+    "Riding": "ED112 University--Rosedale",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 392,
+    "Electoral Votes": 41.22
+  },
+  {
+    "Riding": "ED113 Vaughan--Woodbridge",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 37,
+    "Electoral Votes": 12.542
+  },
+  {
+    "Riding": "ED113 Vaughan--Woodbridge",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 60,
+    "Electoral Votes": 20.339
+  },
+  {
+    "Riding": "ED113 Vaughan--Woodbridge",
+    "Candidate": "FORD, Doug",
+    "Ballots": 174,
+    "Electoral Votes": 58.983
+  },
+  {
+    "Riding": "ED113 Vaughan--Woodbridge",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 24,
+    "Electoral Votes": 8.136
+  },
+  {
+    "Riding": "ED114 Waterloo",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 128,
+    "Electoral Votes": 20.317
+  },
+  {
+    "Riding": "ED114 Waterloo",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 202,
+    "Electoral Votes": 32.063
+  },
+  {
+    "Riding": "ED114 Waterloo",
+    "Candidate": "FORD, Doug",
+    "Ballots": 173,
+    "Electoral Votes": 27.46
+  },
+  {
+    "Riding": "ED114 Waterloo",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 127,
+    "Electoral Votes": 20.159
+  },
+  {
+    "Riding": "ED115 Wellington--Halton Hills",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 93,
+    "Electoral Votes": 22.356
+  },
+  {
+    "Riding": "ED115 Wellington--Halton Hills",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 146,
+    "Electoral Votes": 35.096
+  },
+  {
+    "Riding": "ED115 Wellington--Halton Hills",
+    "Candidate": "FORD, Doug",
+    "Ballots": 119,
+    "Electoral Votes": 28.606
+  },
+  {
+    "Riding": "ED115 Wellington--Halton Hills",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 58,
+    "Electoral Votes": 13.942
+  },
+  {
+    "Riding": "ED116 Whitby",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 68,
+    "Electoral Votes": 6.216
+  },
+  {
+    "Riding": "ED116 Whitby",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 820,
+    "Electoral Votes": 74.954
+  },
+  {
+    "Riding": "ED116 Whitby",
+    "Candidate": "FORD, Doug",
+    "Ballots": 165,
+    "Electoral Votes": 15.082
+  },
+  {
+    "Riding": "ED116 Whitby",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 41,
+    "Electoral Votes": 3.748
+  },
+  {
+    "Riding": "ED117 Willowdale",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 65,
+    "Electoral Votes": 13.185
+  },
+  {
+    "Riding": "ED117 Willowdale",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 131,
+    "Electoral Votes": 26.572
+  },
+  {
+    "Riding": "ED117 Willowdale",
+    "Candidate": "FORD, Doug",
+    "Ballots": 200,
+    "Electoral Votes": 40.568
+  },
+  {
+    "Riding": "ED117 Willowdale",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 97,
+    "Electoral Votes": 19.675
+  },
+  {
+    "Riding": "ED118 Windsor--Tecumseh",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 64,
+    "Electoral Votes": 31.683
+  },
+  {
+    "Riding": "ED118 Windsor--Tecumseh",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 55,
+    "Electoral Votes": 27.228
+  },
+  {
+    "Riding": "ED118 Windsor--Tecumseh",
+    "Candidate": "FORD, Doug",
+    "Ballots": 55,
+    "Electoral Votes": 27.228
+  },
+  {
+    "Riding": "ED118 Windsor--Tecumseh",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 28,
+    "Electoral Votes": 13.861
+  },
+  {
+    "Riding": "ED119 Windsor West",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 45,
+    "Electoral Votes": 24.064
+  },
+  {
+    "Riding": "ED119 Windsor West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 38,
+    "Electoral Votes": 20.321
+  },
+  {
+    "Riding": "ED119 Windsor West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 50,
+    "Electoral Votes": 26.738
+  },
+  {
+    "Riding": "ED119 Windsor West",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 54,
+    "Electoral Votes": 28.877
+  },
+  {
+    "Riding": "ED120 York Centre",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 32,
+    "Electoral Votes": 7.565
+  },
+  {
+    "Riding": "ED120 York Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 163,
+    "Electoral Votes": 38.534
+  },
+  {
+    "Riding": "ED120 York Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 167,
+    "Electoral Votes": 39.48
+  },
+  {
+    "Riding": "ED120 York Centre",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 61,
+    "Electoral Votes": 14.421
+  },
+  {
+    "Riding": "ED121 York--Simcoe",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 41,
+    "Electoral Votes": 9.693
+  },
+  {
+    "Riding": "ED121 York--Simcoe",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 79,
+    "Electoral Votes": 18.676
+  },
+  {
+    "Riding": "ED121 York--Simcoe",
+    "Candidate": "FORD, Doug",
+    "Ballots": 155,
+    "Electoral Votes": 36.643
+  },
+  {
+    "Riding": "ED121 York--Simcoe",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 148,
+    "Electoral Votes": 34.988
+  },
+  {
+    "Riding": "ED122 York South--Weston",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 23,
+    "Electoral Votes": 11.005
+  },
+  {
+    "Riding": "ED122 York South--Weston",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 46,
+    "Electoral Votes": 22.01
+  },
+  {
+    "Riding": "ED122 York South--Weston",
+    "Candidate": "FORD, Doug",
+    "Ballots": 133,
+    "Electoral Votes": 63.636
+  },
+  {
+    "Riding": "ED122 York South--Weston",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 7,
+    "Electoral Votes": 3.349
+  },
+  {
+    "Riding": "ED123 Kiiwetinoong",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 3,
+    "Electoral Votes": 3
+  },
+  {
+    "Riding": "ED123 Kiiwetinoong",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 3,
+    "Electoral Votes": 3
+  },
+  {
+    "Riding": "ED123 Kiiwetinoong",
+    "Candidate": "FORD, Doug",
+    "Ballots": 11,
+    "Electoral Votes": 11
+  },
+  {
+    "Riding": "ED123 Kiiwetinoong",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 17,
+    "Electoral Votes": 17
+  },
+  {
+    "Riding": "ED124 Mushkegowuk--James Bay",
+    "Candidate": "ALLEN, Tanya Granic",
+    "Ballots": 3,
+    "Electoral Votes": 3
+  },
+  {
+    "Riding": "ED124 Mushkegowuk--James Bay",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 1,
+    "Electoral Votes": 1
+  },
+  {
+    "Riding": "ED124 Mushkegowuk--James Bay",
+    "Candidate": "FORD, Doug",
+    "Ballots": 8,
+    "Electoral Votes": 8
+  },
+  {
+    "Riding": "ED124 Mushkegowuk--James Bay",
+    "Candidate": "MULRONEY, Caroline",
+    "Ballots": 43,
+    "Electoral Votes": 43
+  }
+]

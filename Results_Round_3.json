@@ -1,0 +1,1490 @@
+[
+  {
+    "Riding": "ED001 Ajax",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 284,
+    "Electoral Votes": 55.361
+  },
+  {
+    "Riding": "ED001 Ajax",
+    "Candidate": "FORD, Doug",
+    "Ballots": 229,
+    "Electoral Votes": 44.639
+  },
+  {
+    "Riding": "ED002 Algoma--Manitoulin",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 70,
+    "Electoral Votes": 37.634
+  },
+  {
+    "Riding": "ED002 Algoma--Manitoulin",
+    "Candidate": "FORD, Doug",
+    "Ballots": 116,
+    "Electoral Votes": 62.366
+  },
+  {
+    "Riding": "ED003 Aurora--Oak Ridges--Richmond Hill",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 170,
+    "Electoral Votes": 26.984
+  },
+  {
+    "Riding": "ED003 Aurora--Oak Ridges--Richmond Hill",
+    "Candidate": "FORD, Doug",
+    "Ballots": 460,
+    "Electoral Votes": 73.016
+  },
+  {
+    "Riding": "ED004 Barrie--Innisfil",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 297,
+    "Electoral Votes": 43.612
+  },
+  {
+    "Riding": "ED004 Barrie--Innisfil",
+    "Candidate": "FORD, Doug",
+    "Ballots": 384,
+    "Electoral Votes": 56.388
+  },
+  {
+    "Riding": "ED005 Barrie--Springwater--Oro-Medonte",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 484,
+    "Electoral Votes": 58.103
+  },
+  {
+    "Riding": "ED005 Barrie--Springwater--Oro-Medonte",
+    "Candidate": "FORD, Doug",
+    "Ballots": 349,
+    "Electoral Votes": 41.897
+  },
+  {
+    "Riding": "ED006 Bay of Quinte",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 492,
+    "Electoral Votes": 64.482
+  },
+  {
+    "Riding": "ED006 Bay of Quinte",
+    "Candidate": "FORD, Doug",
+    "Ballots": 271,
+    "Electoral Votes": 35.518
+  },
+  {
+    "Riding": "ED007 Beaches--East York",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 292,
+    "Electoral Votes": 59.959
+  },
+  {
+    "Riding": "ED007 Beaches--East York",
+    "Candidate": "FORD, Doug",
+    "Ballots": 195,
+    "Electoral Votes": 40.041
+  },
+  {
+    "Riding": "ED008 Brampton Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 96,
+    "Electoral Votes": 42.478
+  },
+  {
+    "Riding": "ED008 Brampton Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 130,
+    "Electoral Votes": 57.522
+  },
+  {
+    "Riding": "ED009 Brampton East",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 328,
+    "Electoral Votes": 58.467
+  },
+  {
+    "Riding": "ED009 Brampton East",
+    "Candidate": "FORD, Doug",
+    "Ballots": 233,
+    "Electoral Votes": 41.533
+  },
+  {
+    "Riding": "ED010 Brampton North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 131,
+    "Electoral Votes": 44.407
+  },
+  {
+    "Riding": "ED010 Brampton North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 164,
+    "Electoral Votes": 55.593
+  },
+  {
+    "Riding": "ED011 Brampton South",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 218,
+    "Electoral Votes": 59.079
+  },
+  {
+    "Riding": "ED011 Brampton South",
+    "Candidate": "FORD, Doug",
+    "Ballots": 151,
+    "Electoral Votes": 40.921
+  },
+  {
+    "Riding": "ED012 Brampton West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 183,
+    "Electoral Votes": 56.832
+  },
+  {
+    "Riding": "ED012 Brampton West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 139,
+    "Electoral Votes": 43.168
+  },
+  {
+    "Riding": "ED013 Brantford--Brant",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 317,
+    "Electoral Votes": 43.906
+  },
+  {
+    "Riding": "ED013 Brantford--Brant",
+    "Candidate": "FORD, Doug",
+    "Ballots": 405,
+    "Electoral Votes": 56.094
+  },
+  {
+    "Riding": "ED014 Bruce--Grey--Owen Sound",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 459,
+    "Electoral Votes": 56.044
+  },
+  {
+    "Riding": "ED014 Bruce--Grey--Owen Sound",
+    "Candidate": "FORD, Doug",
+    "Ballots": 360,
+    "Electoral Votes": 43.956
+  },
+  {
+    "Riding": "ED015 Burlington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 365,
+    "Electoral Votes": 55.896
+  },
+  {
+    "Riding": "ED015 Burlington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 288,
+    "Electoral Votes": 44.104
+  },
+  {
+    "Riding": "ED016 Cambridge",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 360,
+    "Electoral Votes": 57.785
+  },
+  {
+    "Riding": "ED016 Cambridge",
+    "Candidate": "FORD, Doug",
+    "Ballots": 263,
+    "Electoral Votes": 42.215
+  },
+  {
+    "Riding": "ED017 Carleton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 511,
+    "Electoral Votes": 50.644
+  },
+  {
+    "Riding": "ED017 Carleton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 498,
+    "Electoral Votes": 49.356
+  },
+  {
+    "Riding": "ED018 Chatham-Kent--Leamington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 208,
+    "Electoral Votes": 46.532
+  },
+  {
+    "Riding": "ED018 Chatham-Kent--Leamington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 239,
+    "Electoral Votes": 53.468
+  },
+  {
+    "Riding": "ED019 Davenport",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 83,
+    "Electoral Votes": 40.291
+  },
+  {
+    "Riding": "ED019 Davenport",
+    "Candidate": "FORD, Doug",
+    "Ballots": 123,
+    "Electoral Votes": 59.709
+  },
+  {
+    "Riding": "ED020 Don Valley East",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 171,
+    "Electoral Votes": 46.467
+  },
+  {
+    "Riding": "ED020 Don Valley East",
+    "Candidate": "FORD, Doug",
+    "Ballots": 197,
+    "Electoral Votes": 53.533
+  },
+  {
+    "Riding": "ED021 Don Valley North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 176,
+    "Electoral Votes": 26.426
+  },
+  {
+    "Riding": "ED021 Don Valley North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 490,
+    "Electoral Votes": 73.574
+  },
+  {
+    "Riding": "ED022 Don Valley West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 939,
+    "Electoral Votes": 73.879
+  },
+  {
+    "Riding": "ED022 Don Valley West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 332,
+    "Electoral Votes": 26.121
+  },
+  {
+    "Riding": "ED023 Dufferin--Caledon",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 451,
+    "Electoral Votes": 46.639
+  },
+  {
+    "Riding": "ED023 Dufferin--Caledon",
+    "Candidate": "FORD, Doug",
+    "Ballots": 516,
+    "Electoral Votes": 53.361
+  },
+  {
+    "Riding": "ED024 Durham",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 748,
+    "Electoral Votes": 63.336
+  },
+  {
+    "Riding": "ED024 Durham",
+    "Candidate": "FORD, Doug",
+    "Ballots": 433,
+    "Electoral Votes": 36.664
+  },
+  {
+    "Riding": "ED025 Eglinton--Lawrence",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 629,
+    "Electoral Votes": 74.262
+  },
+  {
+    "Riding": "ED025 Eglinton--Lawrence",
+    "Candidate": "FORD, Doug",
+    "Ballots": 218,
+    "Electoral Votes": 25.738
+  },
+  {
+    "Riding": "ED026 Elgin--Middlesex--London",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 330,
+    "Electoral Votes": 49.107
+  },
+  {
+    "Riding": "ED026 Elgin--Middlesex--London",
+    "Candidate": "FORD, Doug",
+    "Ballots": 342,
+    "Electoral Votes": 50.893
+  },
+  {
+    "Riding": "ED027 Essex",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 150,
+    "Electoral Votes": 42.135
+  },
+  {
+    "Riding": "ED027 Essex",
+    "Candidate": "FORD, Doug",
+    "Ballots": 206,
+    "Electoral Votes": 57.865
+  },
+  {
+    "Riding": "ED028 Etobicoke Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 322,
+    "Electoral Votes": 34.328
+  },
+  {
+    "Riding": "ED028 Etobicoke Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 616,
+    "Electoral Votes": 65.672
+  },
+  {
+    "Riding": "ED029 Etobicoke--Lakeshore",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 430,
+    "Electoral Votes": 52.956
+  },
+  {
+    "Riding": "ED029 Etobicoke--Lakeshore",
+    "Candidate": "FORD, Doug",
+    "Ballots": 382,
+    "Electoral Votes": 47.044
+  },
+  {
+    "Riding": "ED030 Etobicoke North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 64,
+    "Electoral Votes": 13.588
+  },
+  {
+    "Riding": "ED030 Etobicoke North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 407,
+    "Electoral Votes": 86.412
+  },
+  {
+    "Riding": "ED031 Flamborough--Glanbrook",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 295,
+    "Electoral Votes": 46.022
+  },
+  {
+    "Riding": "ED031 Flamborough--Glanbrook",
+    "Candidate": "FORD, Doug",
+    "Ballots": 346,
+    "Electoral Votes": 53.978
+  },
+  {
+    "Riding": "ED032 Glengarry--Prescott--Russell",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 195,
+    "Electoral Votes": 50.518
+  },
+  {
+    "Riding": "ED032 Glengarry--Prescott--Russell",
+    "Candidate": "FORD, Doug",
+    "Ballots": 191,
+    "Electoral Votes": 49.482
+  },
+  {
+    "Riding": "ED033 Guelph",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 220,
+    "Electoral Votes": 54.591
+  },
+  {
+    "Riding": "ED033 Guelph",
+    "Candidate": "FORD, Doug",
+    "Ballots": 183,
+    "Electoral Votes": 45.409
+  },
+  {
+    "Riding": "ED034 Haldimand--Norfolk",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 184,
+    "Electoral Votes": 38.333
+  },
+  {
+    "Riding": "ED034 Haldimand--Norfolk",
+    "Candidate": "FORD, Doug",
+    "Ballots": 296,
+    "Electoral Votes": 61.667
+  },
+  {
+    "Riding": "ED035 Haliburton--Kawartha Lakes--Brock",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 455,
+    "Electoral Votes": 52.359
+  },
+  {
+    "Riding": "ED035 Haliburton--Kawartha Lakes--Brock",
+    "Candidate": "FORD, Doug",
+    "Ballots": 414,
+    "Electoral Votes": 47.641
+  },
+  {
+    "Riding": "ED036 Hamilton Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 63,
+    "Electoral Votes": 34.615
+  },
+  {
+    "Riding": "ED036 Hamilton Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 119,
+    "Electoral Votes": 65.385
+  },
+  {
+    "Riding": "ED037 Hamilton East--Stoney Creek",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 93,
+    "Electoral Votes": 37.349
+  },
+  {
+    "Riding": "ED037 Hamilton East--Stoney Creek",
+    "Candidate": "FORD, Doug",
+    "Ballots": 156,
+    "Electoral Votes": 62.651
+  },
+  {
+    "Riding": "ED038 Hamilton Mountain",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 89,
+    "Electoral Votes": 36.929
+  },
+  {
+    "Riding": "ED038 Hamilton Mountain",
+    "Candidate": "FORD, Doug",
+    "Ballots": 152,
+    "Electoral Votes": 63.071
+  },
+  {
+    "Riding": "ED039 Hamilton West--Ancaster--Dundas",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 404,
+    "Electoral Votes": 56.901
+  },
+  {
+    "Riding": "ED039 Hamilton West--Ancaster--Dundas",
+    "Candidate": "FORD, Doug",
+    "Ballots": 306,
+    "Electoral Votes": 43.099
+  },
+  {
+    "Riding": "ED040 Hastings--Lennox and Addington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 272,
+    "Electoral Votes": 57.023
+  },
+  {
+    "Riding": "ED040 Hastings--Lennox and Addington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 205,
+    "Electoral Votes": 42.977
+  },
+  {
+    "Riding": "ED041 Humber River--Black Creek",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 25,
+    "Electoral Votes": 15.723
+  },
+  {
+    "Riding": "ED041 Humber River--Black Creek",
+    "Candidate": "FORD, Doug",
+    "Ballots": 134,
+    "Electoral Votes": 84.277
+  },
+  {
+    "Riding": "ED042 Huron--Bruce",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 294,
+    "Electoral Votes": 54.444
+  },
+  {
+    "Riding": "ED042 Huron--Bruce",
+    "Candidate": "FORD, Doug",
+    "Ballots": 246,
+    "Electoral Votes": 45.556
+  },
+  {
+    "Riding": "ED043 Kanata--Carleton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 495,
+    "Electoral Votes": 56.571
+  },
+  {
+    "Riding": "ED043 Kanata--Carleton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 380,
+    "Electoral Votes": 43.429
+  },
+  {
+    "Riding": "ED044 Kenora--Rainy River",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 105,
+    "Electoral Votes": 58.333
+  },
+  {
+    "Riding": "ED044 Kenora--Rainy River",
+    "Candidate": "FORD, Doug",
+    "Ballots": 75,
+    "Electoral Votes": 41.667
+  },
+  {
+    "Riding": "ED045 King--Vaughan",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 199,
+    "Electoral Votes": 36.852
+  },
+  {
+    "Riding": "ED045 King--Vaughan",
+    "Candidate": "FORD, Doug",
+    "Ballots": 341,
+    "Electoral Votes": 63.148
+  },
+  {
+    "Riding": "ED046 Kingston and the Islands",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 286,
+    "Electoral Votes": 67.294
+  },
+  {
+    "Riding": "ED046 Kingston and the Islands",
+    "Candidate": "FORD, Doug",
+    "Ballots": 139,
+    "Electoral Votes": 32.706
+  },
+  {
+    "Riding": "ED047 Kitchener Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 227,
+    "Electoral Votes": 49.781
+  },
+  {
+    "Riding": "ED047 Kitchener Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 229,
+    "Electoral Votes": 50.219
+  },
+  {
+    "Riding": "ED048 Kitchener--Conestoga",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 259,
+    "Electoral Votes": 50.097
+  },
+  {
+    "Riding": "ED048 Kitchener--Conestoga",
+    "Candidate": "FORD, Doug",
+    "Ballots": 258,
+    "Electoral Votes": 49.903
+  },
+  {
+    "Riding": "ED049 Kitchener South--Hespeler",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 212,
+    "Electoral Votes": 49.533
+  },
+  {
+    "Riding": "ED049 Kitchener South--Hespeler",
+    "Candidate": "FORD, Doug",
+    "Ballots": 216,
+    "Electoral Votes": 50.467
+  },
+  {
+    "Riding": "ED050 Lambton--Kent--Middlesex",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 200,
+    "Electoral Votes": 46.948
+  },
+  {
+    "Riding": "ED050 Lambton--Kent--Middlesex",
+    "Candidate": "FORD, Doug",
+    "Ballots": 226,
+    "Electoral Votes": 53.052
+  },
+  {
+    "Riding": "ED051 Lanark--Frontenac--Kingston",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 271,
+    "Electoral Votes": 60.626
+  },
+  {
+    "Riding": "ED051 Lanark--Frontenac--Kingston",
+    "Candidate": "FORD, Doug",
+    "Ballots": 176,
+    "Electoral Votes": 39.374
+  },
+  {
+    "Riding": "ED052 Leeds--Grenville--Thousand Islands and Rideau Lakes",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 205,
+    "Electoral Votes": 48.349
+  },
+  {
+    "Riding": "ED052 Leeds--Grenville--Thousand Islands and Rideau Lakes",
+    "Candidate": "FORD, Doug",
+    "Ballots": 219,
+    "Electoral Votes": 51.651
+  },
+  {
+    "Riding": "ED053 London--Fanshawe",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 100,
+    "Electoral Votes": 40.161
+  },
+  {
+    "Riding": "ED053 London--Fanshawe",
+    "Candidate": "FORD, Doug",
+    "Ballots": 149,
+    "Electoral Votes": 59.839
+  },
+  {
+    "Riding": "ED054 London North Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 383,
+    "Electoral Votes": 60.41
+  },
+  {
+    "Riding": "ED054 London North Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 251,
+    "Electoral Votes": 39.59
+  },
+  {
+    "Riding": "ED055 London West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 406,
+    "Electoral Votes": 61.796
+  },
+  {
+    "Riding": "ED055 London West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 251,
+    "Electoral Votes": 38.204
+  },
+  {
+    "Riding": "ED056 Markham--Stouffville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 291,
+    "Electoral Votes": 45.116
+  },
+  {
+    "Riding": "ED056 Markham--Stouffville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 354,
+    "Electoral Votes": 54.884
+  },
+  {
+    "Riding": "ED057 Markham--Thornhill",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 167,
+    "Electoral Votes": 56.04
+  },
+  {
+    "Riding": "ED057 Markham--Thornhill",
+    "Candidate": "FORD, Doug",
+    "Ballots": 131,
+    "Electoral Votes": 43.96
+  },
+  {
+    "Riding": "ED058 Markham--Unionville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 197,
+    "Electoral Votes": 24.502
+  },
+  {
+    "Riding": "ED058 Markham--Unionville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 607,
+    "Electoral Votes": 75.498
+  },
+  {
+    "Riding": "ED059 Milton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 212,
+    "Electoral Votes": 41.815
+  },
+  {
+    "Riding": "ED059 Milton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 295,
+    "Electoral Votes": 58.185
+  },
+  {
+    "Riding": "ED060 Mississauga Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 130,
+    "Electoral Votes": 36.313
+  },
+  {
+    "Riding": "ED060 Mississauga Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 228,
+    "Electoral Votes": 63.687
+  },
+  {
+    "Riding": "ED061 Mississauga East--Cooksville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 91,
+    "Electoral Votes": 24.661
+  },
+  {
+    "Riding": "ED061 Mississauga East--Cooksville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 278,
+    "Electoral Votes": 75.339
+  },
+  {
+    "Riding": "ED062 Mississauga--Erin Mills",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 155,
+    "Electoral Votes": 29.58
+  },
+  {
+    "Riding": "ED062 Mississauga--Erin Mills",
+    "Candidate": "FORD, Doug",
+    "Ballots": 369,
+    "Electoral Votes": 70.42
+  },
+  {
+    "Riding": "ED063 Mississauga--Lakeshore",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 491,
+    "Electoral Votes": 59.014
+  },
+  {
+    "Riding": "ED063 Mississauga--Lakeshore",
+    "Candidate": "FORD, Doug",
+    "Ballots": 341,
+    "Electoral Votes": 40.986
+  },
+  {
+    "Riding": "ED064 Mississauga--Malton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 272,
+    "Electoral Votes": 50.652
+  },
+  {
+    "Riding": "ED064 Mississauga--Malton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 265,
+    "Electoral Votes": 49.348
+  },
+  {
+    "Riding": "ED065 Mississauga--Streetsville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 156,
+    "Electoral Votes": 34.667
+  },
+  {
+    "Riding": "ED065 Mississauga--Streetsville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 294,
+    "Electoral Votes": 65.333
+  },
+  {
+    "Riding": "ED066 Nepean",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 310,
+    "Electoral Votes": 52.721
+  },
+  {
+    "Riding": "ED066 Nepean",
+    "Candidate": "FORD, Doug",
+    "Ballots": 278,
+    "Electoral Votes": 47.279
+  },
+  {
+    "Riding": "ED067 Newmarket--Aurora",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 326,
+    "Electoral Votes": 47.522
+  },
+  {
+    "Riding": "ED067 Newmarket--Aurora",
+    "Candidate": "FORD, Doug",
+    "Ballots": 360,
+    "Electoral Votes": 52.478
+  },
+  {
+    "Riding": "ED068 Niagara Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 173,
+    "Electoral Votes": 35.818
+  },
+  {
+    "Riding": "ED068 Niagara Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 310,
+    "Electoral Votes": 64.182
+  },
+  {
+    "Riding": "ED069 Niagara Falls",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 261,
+    "Electoral Votes": 56.616
+  },
+  {
+    "Riding": "ED069 Niagara Falls",
+    "Candidate": "FORD, Doug",
+    "Ballots": 200,
+    "Electoral Votes": 43.384
+  },
+  {
+    "Riding": "ED070 Niagara West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 295,
+    "Electoral Votes": 52.585
+  },
+  {
+    "Riding": "ED070 Niagara West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 266,
+    "Electoral Votes": 47.415
+  },
+  {
+    "Riding": "ED071 Nickel Belt",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 67,
+    "Electoral Votes": 45.27
+  },
+  {
+    "Riding": "ED071 Nickel Belt",
+    "Candidate": "FORD, Doug",
+    "Ballots": 81,
+    "Electoral Votes": 54.73
+  },
+  {
+    "Riding": "ED072 Nipissing",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 198,
+    "Electoral Votes": 61.682
+  },
+  {
+    "Riding": "ED072 Nipissing",
+    "Candidate": "FORD, Doug",
+    "Ballots": 123,
+    "Electoral Votes": 38.318
+  },
+  {
+    "Riding": "ED073 Northumberland--Peterborough South",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 407,
+    "Electoral Votes": 61.388
+  },
+  {
+    "Riding": "ED073 Northumberland--Peterborough South",
+    "Candidate": "FORD, Doug",
+    "Ballots": 256,
+    "Electoral Votes": 38.612
+  },
+  {
+    "Riding": "ED074 Oakville",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 666,
+    "Electoral Votes": 61.157
+  },
+  {
+    "Riding": "ED074 Oakville",
+    "Candidate": "FORD, Doug",
+    "Ballots": 423,
+    "Electoral Votes": 38.843
+  },
+  {
+    "Riding": "ED075 Oakville North--Burlington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 440,
+    "Electoral Votes": 54.795
+  },
+  {
+    "Riding": "ED075 Oakville North--Burlington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 363,
+    "Electoral Votes": 45.205
+  },
+  {
+    "Riding": "ED076 Orléans",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 267,
+    "Electoral Votes": 47.849
+  },
+  {
+    "Riding": "ED076 Orléans",
+    "Candidate": "FORD, Doug",
+    "Ballots": 291,
+    "Electoral Votes": 52.151
+  },
+  {
+    "Riding": "ED077 Oshawa",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 401,
+    "Electoral Votes": 64.782
+  },
+  {
+    "Riding": "ED077 Oshawa",
+    "Candidate": "FORD, Doug",
+    "Ballots": 218,
+    "Electoral Votes": 35.218
+  },
+  {
+    "Riding": "ED078 Ottawa Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 343,
+    "Electoral Votes": 62.025
+  },
+  {
+    "Riding": "ED078 Ottawa Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 210,
+    "Electoral Votes": 37.975
+  },
+  {
+    "Riding": "ED079 Ottawa South",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 283,
+    "Electoral Votes": 54.633
+  },
+  {
+    "Riding": "ED079 Ottawa South",
+    "Candidate": "FORD, Doug",
+    "Ballots": 235,
+    "Electoral Votes": 45.367
+  },
+  {
+    "Riding": "ED080 Ottawa--Vanier",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 186,
+    "Electoral Votes": 58.307
+  },
+  {
+    "Riding": "ED080 Ottawa--Vanier",
+    "Candidate": "FORD, Doug",
+    "Ballots": 133,
+    "Electoral Votes": 41.693
+  },
+  {
+    "Riding": "ED081 Ottawa West--Nepean",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 394,
+    "Electoral Votes": 58.806
+  },
+  {
+    "Riding": "ED081 Ottawa West--Nepean",
+    "Candidate": "FORD, Doug",
+    "Ballots": 276,
+    "Electoral Votes": 41.194
+  },
+  {
+    "Riding": "ED082 Oxford",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 295,
+    "Electoral Votes": 46.094
+  },
+  {
+    "Riding": "ED082 Oxford",
+    "Candidate": "FORD, Doug",
+    "Ballots": 345,
+    "Electoral Votes": 53.906
+  },
+  {
+    "Riding": "ED083 Parkdale--High Park",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 295,
+    "Electoral Votes": 58.3
+  },
+  {
+    "Riding": "ED083 Parkdale--High Park",
+    "Candidate": "FORD, Doug",
+    "Ballots": 211,
+    "Electoral Votes": 41.7
+  },
+  {
+    "Riding": "ED084 Parry Sound--Muskoka",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 293,
+    "Electoral Votes": 59.918
+  },
+  {
+    "Riding": "ED084 Parry Sound--Muskoka",
+    "Candidate": "FORD, Doug",
+    "Ballots": 196,
+    "Electoral Votes": 40.082
+  },
+  {
+    "Riding": "ED085 Perth--Wellington",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 272,
+    "Electoral Votes": 51.81
+  },
+  {
+    "Riding": "ED085 Perth--Wellington",
+    "Candidate": "FORD, Doug",
+    "Ballots": 253,
+    "Electoral Votes": 48.19
+  },
+  {
+    "Riding": "ED086 Peterborough--Kawartha",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 297,
+    "Electoral Votes": 59.163
+  },
+  {
+    "Riding": "ED086 Peterborough--Kawartha",
+    "Candidate": "FORD, Doug",
+    "Ballots": 205,
+    "Electoral Votes": 40.837
+  },
+  {
+    "Riding": "ED087 Pickering--Uxbridge",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 303,
+    "Electoral Votes": 54.693
+  },
+  {
+    "Riding": "ED087 Pickering--Uxbridge",
+    "Candidate": "FORD, Doug",
+    "Ballots": 251,
+    "Electoral Votes": 45.307
+  },
+  {
+    "Riding": "ED088 Renfrew--Nipissing--Pembroke",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 229,
+    "Electoral Votes": 38.294
+  },
+  {
+    "Riding": "ED088 Renfrew--Nipissing--Pembroke",
+    "Candidate": "FORD, Doug",
+    "Ballots": 369,
+    "Electoral Votes": 61.706
+  },
+  {
+    "Riding": "ED089 Richmond Hill",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 172,
+    "Electoral Votes": 37.069
+  },
+  {
+    "Riding": "ED089 Richmond Hill",
+    "Candidate": "FORD, Doug",
+    "Ballots": 292,
+    "Electoral Votes": 62.931
+  },
+  {
+    "Riding": "ED090 St. Catharines",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 175,
+    "Electoral Votes": 49.157
+  },
+  {
+    "Riding": "ED090 St. Catharines",
+    "Candidate": "FORD, Doug",
+    "Ballots": 181,
+    "Electoral Votes": 50.843
+  },
+  {
+    "Riding": "ED091 Sarnia--Lambton",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 245,
+    "Electoral Votes": 42.907
+  },
+  {
+    "Riding": "ED091 Sarnia--Lambton",
+    "Candidate": "FORD, Doug",
+    "Ballots": 326,
+    "Electoral Votes": 57.093
+  },
+  {
+    "Riding": "ED092 Sault Ste. Marie",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 81,
+    "Electoral Votes": 54
+  },
+  {
+    "Riding": "ED092 Sault Ste. Marie",
+    "Candidate": "FORD, Doug",
+    "Ballots": 69,
+    "Electoral Votes": 46
+  },
+  {
+    "Riding": "ED093 Scarborough--Agincourt",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 94,
+    "Electoral Votes": 25.967
+  },
+  {
+    "Riding": "ED093 Scarborough--Agincourt",
+    "Candidate": "FORD, Doug",
+    "Ballots": 268,
+    "Electoral Votes": 74.033
+  },
+  {
+    "Riding": "ED094 Scarborough Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 149,
+    "Electoral Votes": 40.27
+  },
+  {
+    "Riding": "ED094 Scarborough Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 221,
+    "Electoral Votes": 59.73
+  },
+  {
+    "Riding": "ED095 Scarborough--Guildwood",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 116,
+    "Electoral Votes": 32.222
+  },
+  {
+    "Riding": "ED095 Scarborough--Guildwood",
+    "Candidate": "FORD, Doug",
+    "Ballots": 244,
+    "Electoral Votes": 67.778
+  },
+  {
+    "Riding": "ED096 Scarborough North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 40,
+    "Electoral Votes": 18.692
+  },
+  {
+    "Riding": "ED096 Scarborough North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 174,
+    "Electoral Votes": 81.308
+  },
+  {
+    "Riding": "ED097 Scarborough--Rouge Park",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 191,
+    "Electoral Votes": 44.836
+  },
+  {
+    "Riding": "ED097 Scarborough--Rouge Park",
+    "Candidate": "FORD, Doug",
+    "Ballots": 235,
+    "Electoral Votes": 55.164
+  },
+  {
+    "Riding": "ED098 Scarborough Southwest",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 137,
+    "Electoral Votes": 42.415
+  },
+  {
+    "Riding": "ED098 Scarborough Southwest",
+    "Candidate": "FORD, Doug",
+    "Ballots": 186,
+    "Electoral Votes": 57.585
+  },
+  {
+    "Riding": "ED099 Simcoe--Grey",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 290,
+    "Electoral Votes": 52.441
+  },
+  {
+    "Riding": "ED099 Simcoe--Grey",
+    "Candidate": "FORD, Doug",
+    "Ballots": 263,
+    "Electoral Votes": 47.559
+  },
+  {
+    "Riding": "ED100 Simcoe North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 415,
+    "Electoral Votes": 64.043
+  },
+  {
+    "Riding": "ED100 Simcoe North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 233,
+    "Electoral Votes": 35.957
+  },
+  {
+    "Riding": "ED101 Spadina--Fort York",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 340,
+    "Electoral Votes": 67.729
+  },
+  {
+    "Riding": "ED101 Spadina--Fort York",
+    "Candidate": "FORD, Doug",
+    "Ballots": 162,
+    "Electoral Votes": 32.271
+  },
+  {
+    "Riding": "ED102 Stormont--Dundas--South Glengarry",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 191,
+    "Electoral Votes": 57.704
+  },
+  {
+    "Riding": "ED102 Stormont--Dundas--South Glengarry",
+    "Candidate": "FORD, Doug",
+    "Ballots": 140,
+    "Electoral Votes": 42.296
+  },
+  {
+    "Riding": "ED103 Sudbury",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 90,
+    "Electoral Votes": 44.554
+  },
+  {
+    "Riding": "ED103 Sudbury",
+    "Candidate": "FORD, Doug",
+    "Ballots": 112,
+    "Electoral Votes": 55.446
+  },
+  {
+    "Riding": "ED104 Thornhill",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 278,
+    "Electoral Votes": 50.454
+  },
+  {
+    "Riding": "ED104 Thornhill",
+    "Candidate": "FORD, Doug",
+    "Ballots": 273,
+    "Electoral Votes": 49.546
+  },
+  {
+    "Riding": "ED105 Thunder Bay--Atikokan",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 91,
+    "Electoral Votes": 52.907
+  },
+  {
+    "Riding": "ED105 Thunder Bay--Atikokan",
+    "Candidate": "FORD, Doug",
+    "Ballots": 81,
+    "Electoral Votes": 47.093
+  },
+  {
+    "Riding": "ED106 Thunder Bay--Superior North",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 62,
+    "Electoral Votes": 48.819
+  },
+  {
+    "Riding": "ED106 Thunder Bay--Superior North",
+    "Candidate": "FORD, Doug",
+    "Ballots": 65,
+    "Electoral Votes": 51.181
+  },
+  {
+    "Riding": "ED107 Timiskaming--Cochrane",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 50,
+    "Electoral Votes": 35.971
+  },
+  {
+    "Riding": "ED107 Timiskaming--Cochrane",
+    "Candidate": "FORD, Doug",
+    "Ballots": 89,
+    "Electoral Votes": 64.029
+  },
+  {
+    "Riding": "ED108 Timmins",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 49,
+    "Electoral Votes": 49
+  },
+  {
+    "Riding": "ED108 Timmins",
+    "Candidate": "FORD, Doug",
+    "Ballots": 28,
+    "Electoral Votes": 28
+  },
+  {
+    "Riding": "ED109 Toronto Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 261,
+    "Electoral Votes": 72.299
+  },
+  {
+    "Riding": "ED109 Toronto Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 100,
+    "Electoral Votes": 27.701
+  },
+  {
+    "Riding": "ED110 Toronto--Danforth",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 212,
+    "Electoral Votes": 64.048
+  },
+  {
+    "Riding": "ED110 Toronto--Danforth",
+    "Candidate": "FORD, Doug",
+    "Ballots": 119,
+    "Electoral Votes": 35.952
+  },
+  {
+    "Riding": "ED111 Toronto--St. Paul's",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 605,
+    "Electoral Votes": 77.465
+  },
+  {
+    "Riding": "ED111 Toronto--St. Paul's",
+    "Candidate": "FORD, Doug",
+    "Ballots": 176,
+    "Electoral Votes": 22.535
+  },
+  {
+    "Riding": "ED112 University--Rosedale",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 732,
+    "Electoral Votes": 81.424
+  },
+  {
+    "Riding": "ED112 University--Rosedale",
+    "Candidate": "FORD, Doug",
+    "Ballots": 167,
+    "Electoral Votes": 18.576
+  },
+  {
+    "Riding": "ED113 Vaughan--Woodbridge",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 71,
+    "Electoral Votes": 24.825
+  },
+  {
+    "Riding": "ED113 Vaughan--Woodbridge",
+    "Candidate": "FORD, Doug",
+    "Ballots": 215,
+    "Electoral Votes": 75.175
+  },
+  {
+    "Riding": "ED114 Waterloo",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 314,
+    "Electoral Votes": 51.901
+  },
+  {
+    "Riding": "ED114 Waterloo",
+    "Candidate": "FORD, Doug",
+    "Ballots": 291,
+    "Electoral Votes": 48.099
+  },
+  {
+    "Riding": "ED115 Wellington--Halton Hills",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 194,
+    "Electoral Votes": 48.139
+  },
+  {
+    "Riding": "ED115 Wellington--Halton Hills",
+    "Candidate": "FORD, Doug",
+    "Ballots": 209,
+    "Electoral Votes": 51.861
+  },
+  {
+    "Riding": "ED116 Whitby",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 858,
+    "Electoral Votes": 79.151
+  },
+  {
+    "Riding": "ED116 Whitby",
+    "Candidate": "FORD, Doug",
+    "Ballots": 226,
+    "Electoral Votes": 20.849
+  },
+  {
+    "Riding": "ED117 Willowdale",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 214,
+    "Electoral Votes": 44.491
+  },
+  {
+    "Riding": "ED117 Willowdale",
+    "Candidate": "FORD, Doug",
+    "Ballots": 267,
+    "Electoral Votes": 55.509
+  },
+  {
+    "Riding": "ED118 Windsor--Tecumseh",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 75,
+    "Electoral Votes": 39.267
+  },
+  {
+    "Riding": "ED118 Windsor--Tecumseh",
+    "Candidate": "FORD, Doug",
+    "Ballots": 116,
+    "Electoral Votes": 60.733
+  },
+  {
+    "Riding": "ED119 Windsor West",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 68,
+    "Electoral Votes": 41.463
+  },
+  {
+    "Riding": "ED119 Windsor West",
+    "Candidate": "FORD, Doug",
+    "Ballots": 96,
+    "Electoral Votes": 58.537
+  },
+  {
+    "Riding": "ED120 York Centre",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 209,
+    "Electoral Votes": 50.852
+  },
+  {
+    "Riding": "ED120 York Centre",
+    "Candidate": "FORD, Doug",
+    "Ballots": 202,
+    "Electoral Votes": 49.148
+  },
+  {
+    "Riding": "ED121 York--Simcoe",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 178,
+    "Electoral Votes": 44.389
+  },
+  {
+    "Riding": "ED121 York--Simcoe",
+    "Candidate": "FORD, Doug",
+    "Ballots": 223,
+    "Electoral Votes": 55.611
+  },
+  {
+    "Riding": "ED122 York South--Weston",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 55,
+    "Electoral Votes": 26.699
+  },
+  {
+    "Riding": "ED122 York South--Weston",
+    "Candidate": "FORD, Doug",
+    "Ballots": 151,
+    "Electoral Votes": 73.301
+  },
+  {
+    "Riding": "ED123 Kiiwetinoong",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 14,
+    "Electoral Votes": 14
+  },
+  {
+    "Riding": "ED123 Kiiwetinoong",
+    "Candidate": "FORD, Doug",
+    "Ballots": 17,
+    "Electoral Votes": 17
+  },
+  {
+    "Riding": "ED124 Mushkegowuk--James Bay",
+    "Candidate": "ELLIOTT, Christine",
+    "Ballots": 28,
+    "Electoral Votes": 28
+  },
+  {
+    "Riding": "ED124 Mushkegowuk--James Bay",
+    "Candidate": "FORD, Doug",
+    "Ballots": 15,
+    "Electoral Votes": 15
+  }
+]

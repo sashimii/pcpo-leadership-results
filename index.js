@@ -3,7 +3,7 @@ let fs = require('fs'),
 
 let pdfParser = new PDFParser(this,1);
 
-const pdfNumber = 3;
+const pdfNumber = 1;
 
 pdfParser.on("pdfParser_dataError", errData => console.error(errData.parserError) );
 pdfParser.on("pdfParser_dataReady", pdfData => {
@@ -110,9 +110,9 @@ pdfParser.on("pdfParser_dataReady", pdfData => {
 
  cleanedDataPromise().then((list)=>{
    // console.log(list);
-   fs.writeFile(`./Results_Round_${pdfNumber}.json`, JSON.stringify(list, null, 2));
+   fs.writeFile(`./cleaned/Results_Round_${pdfNumber}.json`, JSON.stringify(list, null, 2));
  })
  // fs.writeFile("./content.json", JSON.stringify(pdfData));
 });
 
-pdfParser.loadPDF(`./PC_Leadership_Results_Summary_File_${pdfNumber}.pdf`);
+pdfParser.loadPDF(`./source/PC_Leadership_Results_Summary_File_${pdfNumber}.pdf`);
